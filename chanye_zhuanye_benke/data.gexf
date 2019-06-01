@@ -1,0 +1,1740 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2019-06-01">
+    <creator>chanye</creator>
+    <description>zhuanye</description>
+  </meta>
+  <graph defaultedgetype="directed" label="zhuanye" mode="static" timeformat="double">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="chanye" type="integer">
+        <default>true</default>
+      </attribute>
+      <attribute id="zhuanye" title="zhuan_ye" type="string">
+        <default>true</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="010101" label="哲学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-825.601401293527" y="-203.54338119025624"/>
+        <viz:color r="112" g="26" b="60"/>
+      </node>
+      <node id="020101" label="经济学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="321.11774650755046" y="-723.9015969216787"/>
+        <viz:color r="139" g="34" b="120"/>
+      </node>
+      <node id="020102" label="经济统计学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="17.742114947830032" y="-590.3469324076141"/>
+        <viz:color r="76" g="120" b="201"/>
+      </node>
+      <node id="020202" label="税收学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="124.2395844895052" y="796.5398044631047"/>
+        <viz:color r="213" g="13" b="222"/>
+      </node>
+      <node id="020301K" label="金融学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-434.73622250288486" y="894.8777035183477"/>
+        <viz:color r="189" g="155" b="151"/>
+      </node>
+      <node id="020302" label="金融工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-174.7113552129507" y="-551.9624733336584"/>
+        <viz:color r="166" g="212" b="62"/>
+      </node>
+      <node id="020401" label="国际经济与贸易">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="340.27634335274297" y="-823.7794462062004"/>
+        <viz:color r="228" g="206" b="36"/>
+      </node>
+      <node id="030101K" label="法学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-492.08276644713527" y="-24.88201481217982"/>
+        <viz:color r="74" g="184" b="139"/>
+      </node>
+      <node id="030201" label="政治学与行政学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="111.64327005301948" y="-525.9308734061584"/>
+        <viz:color r="121" g="6" b="249"/>
+      </node>
+      <node id="030301" label="社会学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="223.6476357746276" y="-136.97195683995926"/>
+        <viz:color r="128" g="115" b="155"/>
+      </node>
+      <node id="030302" label="社会工作">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="522.0231332302374" y="-784.8268975561848"/>
+        <viz:color r="78" g="56" b="243"/>
+      </node>
+      <node id="030305T" label="家政学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-300.7743366524945" y="1.5203341225566191"/>
+        <viz:color r="185" g="240" b="134"/>
+      </node>
+      <node id="030503" label="思想政治教育">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="526.90038624461" y="349.82377088783346"/>
+        <viz:color r="195" g="54" b="32"/>
+      </node>
+      <node id="030601K" label="治安学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="721.74456573014" y="478.23874310831206"/>
+        <viz:color r="30" g="2" b="168"/>
+      </node>
+      <node id="030602K" label="侦查学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="874.5623173783106" y="437.5202791546744"/>
+        <viz:color r="67" g="32" b="131"/>
+      </node>
+      <node id="040102" label="科学教育">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-875.0582086764807" y="-410.5649606947518"/>
+        <viz:color r="74" g="132" b="181"/>
+      </node>
+      <node id="040104" label="教育技术学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="738.7198081050637" y="-859.1564167435969"/>
+        <viz:color r="167" g="105" b="195"/>
+      </node>
+      <node id="040107" label="小学教育">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="746.6321526342726" y="241.19192413014343"/>
+        <viz:color r="64" g="125" b="223"/>
+      </node>
+      <node id="040201" label="体育教育">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-242.10124093347224" y="-517.5073685632847"/>
+        <viz:color r="37" g="44" b="193"/>
+      </node>
+      <node id="040202K" label="运动训练">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="635.76276388565" y="-748.3385696043771"/>
+        <viz:color r="142" g="118" b="154"/>
+      </node>
+      <node id="040204K" label="武术与民族传统体育">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="579.9619590882485" y="728.9180014851829"/>
+        <viz:color r="90" g="131" b="79"/>
+      </node>
+      <node id="040205" label="运动人体科学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="866.7658164323825" y="-851.1890907587338"/>
+        <viz:color r="134" g="147" b="53"/>
+      </node>
+      <node id="050101" label="汉语言文学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="231.5104387493459" y="761.3783025340092"/>
+        <viz:color r="249" g="121" b="195"/>
+      </node>
+      <node id="050102" label="汉语言">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-158.19267344084426" y="-195.07128520593005"/>
+        <viz:color r="179" g="232" b="230"/>
+      </node>
+      <node id="050201" label="英语">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="151.31869518533358" y="-564.4087267531381"/>
+        <viz:color r="119" g="97" b="146"/>
+      </node>
+      <node id="050207" label="日语">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-382.92939725528413" y="129.05882314863493"/>
+        <viz:color r="179" g="97" b="44"/>
+      </node>
+      <node id="050209" label="朝鲜语">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-487.78999049864984" y="853.673452416798"/>
+        <viz:color r="38" g="213" b="219"/>
+      </node>
+      <node id="050238" label="意大利语">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-131.40099917695113" y="424.1595530634331"/>
+        <viz:color r="134" g="64" b="214"/>
+      </node>
+      <node id="050261" label="翻译">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="201.50051508164802" y="367.6680378355072"/>
+        <viz:color r="191" g="103" b="25"/>
+      </node>
+      <node id="050301" label="新闻学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="231.50289876684565" y="-432.2768738678711"/>
+        <viz:color r="59" g="193" b="78"/>
+      </node>
+      <node id="050303" label="广告学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-708.1313159396359" y="154.6585149734051"/>
+        <viz:color r="5" g="242" b="236"/>
+      </node>
+      <node id="050305" label="编辑出版学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-787.1748469932663" y="-179.0020170826141"/>
+        <viz:color r="108" g="179" b="6"/>
+      </node>
+      <node id="060101" label="历史学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="488.73172768997347" y="-681.6512825258319"/>
+        <viz:color r="143" g="242" b="224"/>
+      </node>
+      <node id="060103" label="考古学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-729.3064982810159" y="-196.56353370814065"/>
+        <viz:color r="204" g="119" b="100"/>
+      </node>
+      <node id="070101" label="数学与应用数学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-565.3860300498366" y="502.04561786851286"/>
+        <viz:color r="159" g="161" b="179"/>
+      </node>
+      <node id="070102" label="信息与计算科学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-506.8445072154423" y="137.1977254320184"/>
+        <viz:color r="30" g="224" b="206"/>
+      </node>
+      <node id="070201" label="物理学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="64.66354075685626" y="-179.75516698194247"/>
+        <viz:color r="105" g="167" b="153"/>
+      </node>
+      <node id="070301" label="化学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-415.5520735490808" y="680.1095808870584"/>
+        <viz:color r="163" g="185" b="224"/>
+      </node>
+      <node id="070302" label="应用化学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-57.96084494359695" y="-205.97252537028874"/>
+        <viz:color r="240" g="106" b="169"/>
+      </node>
+      <node id="070501" label="地理科学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="330.67879745369714" y="-57.17851325629999"/>
+        <viz:color r="127" g="177" b="94"/>
+      </node>
+      <node id="070503" label="人文地理与城乡规划">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-297.62337258820025" y="276.6341325865201"/>
+        <viz:color r="145" g="15" b="47"/>
+      </node>
+      <node id="070504" label="地理信息科学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-605.7404832929722" y="-298.057477154636"/>
+        <viz:color r="233" g="79" b="26"/>
+      </node>
+      <node id="070901" label="地质学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-686.0120964031398" y="887.9770680917215"/>
+        <viz:color r="254" g="207" b="65"/>
+      </node>
+      <node id="071001" label="生物科学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-481.3248742741976" y="376.0932900978894"/>
+        <viz:color r="4" g="232" b="251"/>
+      </node>
+      <node id="071002" label="生物技术">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-513.7377363301351" y="779.6642531274574"/>
+        <viz:color r="14" g="24" b="211"/>
+      </node>
+      <node id="071004" label="生态学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="135.05101705492143" y="809.1586164636444"/>
+        <viz:color r="158" g="169" b="59"/>
+      </node>
+      <node id="071101" label="心理学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="353.64411109330854" y="142.24526501178184"/>
+        <viz:color r="17" g="22" b="66"/>
+      </node>
+      <node id="071201" label="统计学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-442.71546922618614" y="-162.93789753539704"/>
+        <viz:color r="235" g="84" b="242"/>
+      </node>
+      <node id="080102" label="工程力学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-9.351704131733072" y="575.3402484171656"/>
+        <viz:color r="29" g="56" b="159"/>
+      </node>
+      <node id="080201" label="机械工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-113.60099252387568" y="-424.36376102613684"/>
+        <viz:color r="45" g="220" b="206"/>
+      </node>
+      <node id="080202" label="机械设计制造及其自动化">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="574.5798398910304" y="150.72970420591355"/>
+        <viz:color r="85" g="151" b="181"/>
+      </node>
+      <node id="080203" label="材料成型及控制工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-464.38339985996663" y="570.3861477431481"/>
+        <viz:color r="220" g="193" b="248"/>
+      </node>
+      <node id="080204" label="机械电子工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-228.63242009981457" y="-53.312631531296006"/>
+        <viz:color r="167" g="195" b="168"/>
+      </node>
+      <node id="080206" label="过程装备与控制工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="591.3350618290922" y="-257.3779105520397"/>
+        <viz:color r="245" g="215" b="100"/>
+      </node>
+      <node id="080207" label="车辆工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-787.186979404949" y="-4.858570527361167"/>
+        <viz:color r="248" g="163" b="227"/>
+      </node>
+      <node id="080301" label="测控技术与仪器">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-742.3300343914693" y="-216.2394469879274"/>
+        <viz:color r="248" g="49" b="66"/>
+      </node>
+      <node id="080402" label="材料物理">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="243.19174392228138" y="-536.4190258853525"/>
+        <viz:color r="85" g="79" b="15"/>
+      </node>
+      <node id="080403" label="材料化学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-466.7040927682272" y="-386.79098844269527"/>
+        <viz:color r="187" g="225" b="14"/>
+      </node>
+      <node id="080405" label="金属材料工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="335.89499071362457" y="220.9731659429185"/>
+        <viz:color r="171" g="32" b="40"/>
+      </node>
+      <node id="080406" label="无机非金属材料工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="409.51526983757276" y="-139.743944729007"/>
+        <viz:color r="95" g="22" b="250"/>
+      </node>
+      <node id="080407" label="高分子材料与工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-331.0058479665594" y="301.7258616248762"/>
+        <viz:color r="15" g="89" b="55"/>
+      </node>
+      <node id="080501" label="能源与动力工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="747.6576650973702" y="488.83851108563726"/>
+        <viz:color r="24" g="188" b="189"/>
+      </node>
+      <node id="080503T" label="新能源科学与工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="374.91767019863755" y="820.7621938363927"/>
+        <viz:color r="71" g="84" b="143"/>
+      </node>
+      <node id="080601" label="电气工程及其自动化">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="813.3499941210312" y="252.14313209127408"/>
+        <viz:color r="14" g="62" b="217"/>
+      </node>
+      <node id="080701" label="电子信息工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="416.0117107887843" y="823.6196467932966"/>
+        <viz:color r="107" g="184" b="124"/>
+      </node>
+      <node id="080702" label="电子科学与技术">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="773.7812926207398" y="554.3805479035389"/>
+        <viz:color r="254" g="20" b="14"/>
+      </node>
+      <node id="080703" label="通信工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="584.4975448489572" y="333.06312742978844"/>
+        <viz:color r="78" g="158" b="171"/>
+      </node>
+      <node id="080705" label="光电信息科学与工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-172.36963976237496" y="-510.72306164533495"/>
+        <viz:color r="232" g="220" b="172"/>
+      </node>
+      <node id="080714T" label="电子信息科学与技术">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="705.5364733627393" y="281.71943299105305"/>
+        <viz:color r="108" g="17" b="130"/>
+      </node>
+      <node id="080801" label="自动化">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="307.1551121995142" y="-798.8297826941648"/>
+        <viz:color r="46" g="238" b="88"/>
+      </node>
+      <node id="080901" label="计算机科学与技术">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-422.9314243266525" y="-345.91647210847964"/>
+        <viz:color r="237" g="220" b="99"/>
+      </node>
+      <node id="080902" label="软件工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="724.3225082586775" y="805.1126838691425"/>
+        <viz:color r="171" g="235" b="237"/>
+      </node>
+      <node id="080903" label="网络工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="11.58561979316994" y="427.7180747407758"/>
+        <viz:color r="155" g="196" b="115"/>
+      </node>
+      <node id="080905" label="物联网工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="211.14520388302253" y="-458.0352982700513"/>
+        <viz:color r="116" g="167" b="45"/>
+      </node>
+      <node id="081001" label="土木工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-438.1215778091926" y="173.14965464109468"/>
+        <viz:color r="179" g="29" b="138"/>
+      </node>
+      <node id="081002" label="建筑环境与能源应用工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="629.8448274828957" y="-623.2125279345555"/>
+        <viz:color r="191" g="104" b="9"/>
+      </node>
+      <node id="081003" label="给排水科学与工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-417.7177078418167" y="161.7877403565683"/>
+        <viz:color r="32" g="188" b="97"/>
+      </node>
+      <node id="081005T" label="城市地下空间工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="425.09931679698275" y="-168.22228195015396"/>
+        <viz:color r="26" g="183" b="137"/>
+      </node>
+      <node id="081101" label="水利水电工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-340.11115395825425" y="558.0627031148103"/>
+        <viz:color r="114" g="46" b="203"/>
+      </node>
+      <node id="081201" label="测绘工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-627.6607577535615" y="338.83102678637124"/>
+        <viz:color r="68" g="16" b="64"/>
+      </node>
+      <node id="081301" label="化学工程与工艺">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="754.6545525266276" y="875.3266753289151"/>
+        <viz:color r="100" g="218" b="230"/>
+      </node>
+      <node id="081302" label="制药工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-21.914865271257895" y="-502.5836450598263"/>
+        <viz:color r="198" g="245" b="55"/>
+      </node>
+      <node id="081401" label="地质工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-479.7144867581476" y="-498.9654361835827"/>
+        <viz:color r="211" g="100" b="33"/>
+      </node>
+      <node id="081402" label="勘查技术与工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-747.0547644562861" y="568.0192554956377"/>
+        <viz:color r="232" g="62" b="129"/>
+      </node>
+      <node id="081403" label="资源勘查工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-293.51058251433835" y="-362.12115340819753"/>
+        <viz:color r="217" g="83" b="61"/>
+      </node>
+      <node id="081404T" label="地下水科学与工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="284.86276581730885" y="855.9740739407268"/>
+        <viz:color r="39" g="79" b="159"/>
+      </node>
+      <node id="081602" label="服装设计与工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-54.38707729761006" y="-284.7650491687997"/>
+        <viz:color r="172" g="237" b="214"/>
+      </node>
+      <node id="082107" label="信息对抗技术">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-147.2832052663132" y="-449.14880890927896"/>
+        <viz:color r="200" g="152" b="120"/>
+      </node>
+      <node id="082302" label="农业机械化及其自动化">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="795.6923265275104" y="-492.4394410229526"/>
+        <viz:color r="236" g="185" b="143"/>
+      </node>
+      <node id="082402" label="木材科学与工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-783.0468267465106" y="152.86701643838046"/>
+        <viz:color r="141" g="171" b="211"/>
+      </node>
+      <node id="082502" label="环境工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-43.792934103043194" y="481.40759683593456"/>
+        <viz:color r="233" g="119" b="167"/>
+      </node>
+      <node id="082503" label="环境科学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-726.7665000454544" y="-332.0077419067409"/>
+        <viz:color r="171" g="142" b="220"/>
+      </node>
+      <node id="082601" label="生物医学工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-829.4949633987031" y="-520.8688372475133"/>
+        <viz:color r="250" g="101" b="127"/>
+      </node>
+      <node id="082701" label="食品科学与工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-769.5829807770451" y="617.0197279551712"/>
+        <viz:color r="220" g="41" b="69"/>
+      </node>
+      <node id="082801" label="建筑学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="689.9529089173873" y="-615.1063382652432"/>
+        <viz:color r="234" g="165" b="129"/>
+      </node>
+      <node id="082802" label="城乡规划">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-244.45399942202982" y="877.0344474342055"/>
+        <viz:color r="175" g="162" b="36"/>
+      </node>
+      <node id="083001" label="生物工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-488.3921049714005" y="838.4711155733094"/>
+        <viz:color r="98" g="245" b="114"/>
+      </node>
+      <node id="083002T" label="生物制药">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="360.9995380290277" y="-427.3771966734848"/>
+        <viz:color r="81" g="62" b="12"/>
+      </node>
+      <node id="083101K" label="刑事科学技术">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-897.4337384911822" y="694.5711179431403"/>
+        <viz:color r="245" g="167" b="15"/>
+      </node>
+      <node id="083103TK" label="交通管理工程">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-811.0031053855768" y="470.01871175258134"/>
+        <viz:color r="156" g="66" b="21"/>
+      </node>
+      <node id="090101" label="农学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="392.4639031148474" y="-16.941652699933"/>
+        <viz:color r="29" g="155" b="126"/>
+      </node>
+      <node id="090102" label="园艺">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="698.5868968223183" y="-708.5499104799494"/>
+        <viz:color r="198" g="253" b="42"/>
+      </node>
+      <node id="090103" label="植物保护">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="566.0073942912218" y="-122.83552157923737"/>
+        <viz:color r="191" g="198" b="100"/>
+      </node>
+      <node id="090109T" label="应用生物科学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-681.6492182457218" y="236.70091929961154"/>
+        <viz:color r="170" g="9" b="139"/>
+      </node>
+      <node id="090201" label="农业资源与环境">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-193.28684203173339" y="-18.477862634959024"/>
+        <viz:color r="183" g="181" b="96"/>
+      </node>
+      <node id="090202" label="野生动物与自然保护区管理">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-383.7916073181766" y="31.15043449365612"/>
+        <viz:color r="121" g="178" b="77"/>
+      </node>
+      <node id="090301" label="动物科学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-314.5823363244816" y="760.1628990422587"/>
+        <viz:color r="21" g="202" b="47"/>
+      </node>
+      <node id="090401" label="动物医学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-187.90759710083535" y="-609.4519105065363"/>
+        <viz:color r="239" g="223" b="0"/>
+      </node>
+      <node id="090501" label="林学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-319.54253217418716" y="-698.8665286448326"/>
+        <viz:color r="51" g="232" b="169"/>
+      </node>
+      <node id="090502" label="园林">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="422.90526077934396" y="-451.79355087404315"/>
+        <viz:color r="171" g="196" b="42"/>
+      </node>
+      <node id="1" label="城镇化建设">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="60"/>
+        <viz:position x="329.7072238850383" y="-315.6823044226654"/>
+        <viz:color r="174" g="184" b="62"/>
+      </node>
+      <node id="10" label="民营经济">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"/>
+        </attvalues>
+        <viz:size value="50"/>
+        <viz:position x="651.1158858754725" y="793.0189437580095"/>
+        <viz:color r="89" g="251" b="75"/>
+      </node>
+      <node id="100201K" label="临床医学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-68.076192527393" y="-757.8994373159151"/>
+        <viz:color r="22" g="218" b="39"/>
+      </node>
+      <node id="100206TK" label="放射医学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="499.84942391879713" y="560.1633445144519"/>
+        <viz:color r="75" g="250" b="117"/>
+      </node>
+      <node id="100301K" label="口腔医学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="710.9458021156881" y="-664.4002749224551"/>
+        <viz:color r="190" g="97" b="166"/>
+      </node>
+      <node id="100401K" label="预防医学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="603.0086018302902" y="877.3753538213841"/>
+        <viz:color r="136" g="158" b="195"/>
+      </node>
+      <node id="100501K" label="中医学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-83.87465765724573" y="-176.65125570614543"/>
+        <viz:color r="7" g="193" b="71"/>
+      </node>
+      <node id="100502K" label="针灸推拿学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="825.0498670709999" y="-236.25110949547843"/>
+        <viz:color r="79" g="62" b="55"/>
+      </node>
+      <node id="100601K" label="中西医临床医学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="826.923845174003" y="768.3630751093101"/>
+        <viz:color r="255" g="199" b="140"/>
+      </node>
+      <node id="100701" label="药学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="141.81875933695642" y="-833.5783450695343"/>
+        <viz:color r="84" g="201" b="167"/>
+      </node>
+      <node id="100702" label="药物制剂">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="526.2675218829663" y="-160.1876746234242"/>
+        <viz:color r="56" g="183" b="201"/>
+      </node>
+      <node id="100801" label="中药学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="653.249317140301" y="-166.69252572946527"/>
+        <viz:color r="76" g="62" b="32"/>
+      </node>
+      <node id="100802" label="中药资源与开发">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-281.5357349393506" y="156.88315787397687"/>
+        <viz:color r="132" g="48" b="26"/>
+      </node>
+      <node id="101001" label="医学检验技术">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-771.2351838037625" y="474.9469153301907"/>
+        <viz:color r="48" g="46" b="99"/>
+      </node>
+      <node id="101101" label="护理学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-754.9441301138024" y="636.8654894285007"/>
+        <viz:color r="218" g="33" b="68"/>
+      </node>
+      <node id="11" label="农产品加工">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"/>
+        </attvalues>
+        <viz:size value="55"/>
+        <viz:position x="439.36267775726105" y="-628.5955810721366"/>
+        <viz:color r="45" g="227" b="160"/>
+      </node>
+      <node id="12" label="人工智能">
+        <attvalues>
+          <attvalue for="modularity_class" value="11"/>
+        </attvalues>
+        <viz:size value="50"/>
+        <viz:position x="-78.01228369597698" y="-825.225211206513"/>
+        <viz:color r="96" g="65" b="11"/>
+      </node>
+      <node id="120103" label="工程管理">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-628.6838236468101" y="-190.28917119206892"/>
+        <viz:color r="218" g="174" b="188"/>
+      </node>
+      <node id="120105" label="工程造价">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-124.61121076363838" y="614.1549023194443"/>
+        <viz:color r="178" g="147" b="140"/>
+      </node>
+      <node id="120201K" label="工商管理">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-555.3959898053122" y="831.9791780581988"/>
+        <viz:color r="67" g="101" b="89"/>
+      </node>
+      <node id="120202" label="市场营销">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-558.5525792586643" y="610.1275266275009"/>
+        <viz:color r="107" g="34" b="246"/>
+      </node>
+      <node id="120203K" label="会计学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-429.961069556719" y="-312.47058505442556"/>
+        <viz:color r="29" g="0" b="156"/>
+      </node>
+      <node id="120301" label="农林经济管理">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="529.0880272750906" y="-155.99477282889643"/>
+        <viz:color r="215" g="2" b="203"/>
+      </node>
+      <node id="120401" label="公共事业管理">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="112.77308396250817" y="59.0781881732529"/>
+        <viz:color r="249" g="58" b="165"/>
+      </node>
+      <node id="120501" label="图书馆学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-873.1080571390507" y="-672.182829057079"/>
+        <viz:color r="138" g="150" b="97"/>
+      </node>
+      <node id="120601" label="物流管理">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="652.8193940876063" y="62.82593283810786"/>
+        <viz:color r="11" g="112" b="121"/>
+      </node>
+      <node id="120801" label="电子商务">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="454.48629380544594" y="591.2268840557149"/>
+        <viz:color r="143" g="23" b="11"/>
+      </node>
+      <node id="120901K" label="旅游管理">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-640.6638445146989" y="-374.1952393071415"/>
+        <viz:color r="227" g="58" b="96"/>
+      </node>
+      <node id="13" label="社会治理能力现代化">
+        <attvalues>
+          <attvalue for="modularity_class" value="12"/>
+        </attvalues>
+        <viz:size value="100"/>
+        <viz:position x="-449.93759080391936" y="605.9397829999259"/>
+        <viz:color r="28" g="101" b="138"/>
+      </node>
+      <node id="130201" label="音乐表演">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-13.443466436810468" y="-113.98508928434569"/>
+        <viz:color r="92" g="54" b="55"/>
+      </node>
+      <node id="130202" label="音乐学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-0.5428681130292716" y="419.93907216438174"/>
+        <viz:color r="81" g="97" b="89"/>
+      </node>
+      <node id="130206" label="舞蹈编导">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-621.5498315629209" y="165.33496257038928"/>
+        <viz:color r="7" g="226" b="146"/>
+      </node>
+      <node id="130301" label="表演">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-251.10133690951363" y="-152.18905573973927"/>
+        <viz:color r="219" g="34" b="78"/>
+      </node>
+      <node id="130309" label="播音与主持艺术">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-121.37161750520988" y="249.6043983236964"/>
+        <viz:color r="102" g="185" b="169"/>
+      </node>
+      <node id="130310" label="动画">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-641.8295310290147" y="72.39130442802002"/>
+        <viz:color r="92" g="93" b="218"/>
+      </node>
+      <node id="130401" label="美术学">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="684.4837352948605" y="-774.1776308196974"/>
+        <viz:color r="220" g="115" b="155"/>
+      </node>
+      <node id="130502" label="视觉传达设计">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-168.83479765727134" y="80.74481088465564"/>
+        <viz:color r="146" g="14" b="4"/>
+      </node>
+      <node id="130503" label="环境设计">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-723.6908962247378" y="-493.736285397451"/>
+        <viz:color r="134" g="108" b="176"/>
+      </node>
+      <node id="130508" label="数字媒体艺术">
+        <attvalues>
+          <attvalue for="zhuanye" value="zhuanye"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="43.10940298674245" y="315.3378405090873"/>
+        <viz:color r="171" g="251" b="100"/>
+      </node>
+      <node id="14" label="生物产业">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"/>
+        </attvalues>
+        <viz:size value="25"/>
+        <viz:position x="142.6339053529921" y="159.03275041442475"/>
+        <viz:color r="223" g="192" b="52"/>
+      </node>
+      <node id="15" label="生物医药">
+        <attvalues>
+          <attvalue for="modularity_class" value="14"/>
+        </attvalues>
+        <viz:size value="60"/>
+        <viz:position x="-876.5499400034114" y="-213.4152048747626"/>
+        <viz:color r="172" g="196" b="71"/>
+      </node>
+      <node id="16" label="石化">
+        <attvalues>
+          <attvalue for="modularity_class" value="15"/>
+        </attvalues>
+        <viz:size value="70"/>
+        <viz:position x="66.47128870084885" y="-675.1600156832434"/>
+        <viz:color r="16" g="77" b="251"/>
+      </node>
+      <node id="17" label="卫星遥感">
+        <attvalues>
+          <attvalue for="modularity_class" value="16"/>
+        </attvalues>
+        <viz:size value="100"/>
+        <viz:position x="-22.997167849336392" y="372.71141338347184"/>
+        <viz:color r="70" g="33" b="223"/>
+      </node>
+      <node id="18" label="文化产业">
+        <attvalues>
+          <attvalue for="modularity_class" value="17"/>
+        </attvalues>
+        <viz:size value="115"/>
+        <viz:position x="536.9299011411874" y="864.2618734653865"/>
+        <viz:color r="17" g="81" b="178"/>
+      </node>
+      <node id="19" label="现代服务业">
+        <attvalues>
+          <attvalue for="modularity_class" value="18"/>
+        </attvalues>
+        <viz:size value="55"/>
+        <viz:position x="-1.0113757278143112" y="147.26991938325"/>
+        <viz:color r="238" g="78" b="207"/>
+      </node>
+      <node id="2" label="大数据">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="60"/>
+        <viz:position x="-834.9512963345798" y="709.1344143163585"/>
+        <viz:color r="255" g="218" b="10"/>
+      </node>
+      <node id="20" label="现代农业">
+        <attvalues>
+          <attvalue for="modularity_class" value="19"/>
+        </attvalues>
+        <viz:size value="55"/>
+        <viz:position x="621.4632505384357" y="-454.75195302412277"/>
+        <viz:color r="169" g="135" b="149"/>
+      </node>
+      <node id="21" label="新材料">
+        <attvalues>
+          <attvalue for="modularity_class" value="20"/>
+        </attvalues>
+        <viz:size value="35"/>
+        <viz:position x="-891.5271966513283" y="-15.973434045549652"/>
+        <viz:color r="181" g="126" b="46"/>
+      </node>
+      <node id="22" label="新能源">
+        <attvalues>
+          <attvalue for="modularity_class" value="21"/>
+        </attvalues>
+        <viz:size value="75"/>
+        <viz:position x="-853.5817086995229" y="426.4737127634776"/>
+        <viz:color r="83" g="212" b="170"/>
+      </node>
+      <node id="23" label="医药健康">
+        <attvalues>
+          <attvalue for="modularity_class" value="22"/>
+        </attvalues>
+        <viz:size value="90"/>
+        <viz:position x="618.7008241141584" y="663.6367103266814"/>
+        <viz:color r="29" g="212" b="139"/>
+      </node>
+      <node id="24" label="装备制造">
+        <attvalues>
+          <attvalue for="modularity_class" value="23"/>
+        </attvalues>
+        <viz:size value="55"/>
+        <viz:position x="-867.9246100208413" y="-351.4405461865765"/>
+        <viz:color r="191" g="254" b="148"/>
+      </node>
+      <node id="25" label="汽车">
+        <attvalues>
+          <attvalue for="modularity_class" value="24"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-607.4081226357989" y="448.99938349242007"/>
+        <viz:color r="153" g="100" b="219"/>
+      </node>
+      <node id="26" label="新能源汽车">
+        <attvalues>
+          <attvalue for="modularity_class" value="25"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="554.6115180752452" y="-565.9047185635709"/>
+        <viz:color r="151" g="241" b="96"/>
+      </node>
+      <node id="27" label="商贸流通业">
+        <attvalues>
+          <attvalue for="modularity_class" value="26"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-246.5117453321045" y="869.7899684655795"/>
+        <viz:color r="5" g="37" b="5"/>
+      </node>
+      <node id="28" label="电子商务">
+        <attvalues>
+          <attvalue for="modularity_class" value="27"/>
+        </attvalues>
+        <viz:size value="70"/>
+        <viz:position x="-137.15386470621422" y="-184.45576959394896"/>
+        <viz:color r="164" g="91" b="172"/>
+      </node>
+      <node id="29" label="云计算">
+        <attvalues>
+          <attvalue for="modularity_class" value="28"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="306.9523001778591" y="-358.73303517186946"/>
+        <viz:color r="41" g="100" b="136"/>
+      </node>
+      <node id="3" label="电子信息">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="75"/>
+        <viz:position x="-639.6484642014705" y="364.62536943886585"/>
+        <viz:color r="210" g="228" b="252"/>
+      </node>
+      <node id="30" label="物流业">
+        <attvalues>
+          <attvalue for="modularity_class" value="29"/>
+        </attvalues>
+        <viz:size value="65"/>
+        <viz:position x="729.4100061814215" y="-225.25114752320053"/>
+        <viz:color r="107" g="196" b="54"/>
+      </node>
+      <node id="4" label="光电信息">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="30"/>
+        <viz:position x="182.6791031046455" y="-413.63108952850916"/>
+        <viz:color r="252" g="42" b="77"/>
+      </node>
+      <node id="5" label="建材">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="75"/>
+        <viz:position x="676.490112283275" y="887.1299381730094"/>
+        <viz:color r="217" g="130" b="65"/>
+      </node>
+      <node id="6" label="建筑业">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="60"/>
+        <viz:position x="329.7813393030599" y="460.8211248046048"/>
+        <viz:color r="54" g="89" b="101"/>
+      </node>
+      <node id="7" label="节能环保">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="60"/>
+        <viz:position x="150.4308863734982" y="-196.13440924427937"/>
+        <viz:color r="57" g="142" b="154"/>
+      </node>
+      <node id="8" label="金融服务业">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="50"/>
+        <viz:position x="228.9355418006187" y="-706.8935422533303"/>
+        <viz:color r="241" g="17" b="134"/>
+      </node>
+      <node id="9" label="旅游业">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"/>
+        </attvalues>
+        <viz:size value="40"/>
+        <viz:position x="-205.6929792854795" y="546.442516258034"/>
+        <viz:color r="19" g="242" b="16"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="13" target="010101" weight="20"/>
+      <edge id="1" source="13" target="020101" weight="20"/>
+      <edge id="10" source="13" target="030302" weight="20"/>
+      <edge id="100" source="16" target="070901" weight="14"/>
+      <edge id="101" source="16" target="080402" weight="14"/>
+      <edge id="102" source="16" target="080403" weight="14"/>
+      <edge id="103" source="16" target="080501" weight="14"/>
+      <edge id="104" source="16" target="081201" weight="14"/>
+      <edge id="105" source="16" target="081401" weight="14"/>
+      <edge id="106" source="16" target="081402" weight="14"/>
+      <edge id="107" source="16" target="081403" weight="14"/>
+      <edge id="108" source="16" target="082502" weight="14"/>
+      <edge id="109" source="16" target="083001" weight="14"/>
+      <edge id="11" source="13" target="030305T" weight="20"/>
+      <edge id="110" source="17" target="070101" weight="20"/>
+      <edge id="111" source="17" target="070102" weight="20"/>
+      <edge id="112" source="17" target="070201" weight="20"/>
+      <edge id="113" source="17" target="070501" weight="20"/>
+      <edge id="114" source="17" target="070504" weight="20"/>
+      <edge id="115" source="17" target="070901" weight="20"/>
+      <edge id="116" source="17" target="071201" weight="20"/>
+      <edge id="117" source="17" target="080201" weight="20"/>
+      <edge id="118" source="17" target="080301" weight="20"/>
+      <edge id="119" source="17" target="080701" weight="20"/>
+      <edge id="12" source="13" target="030503" weight="20"/>
+      <edge id="120" source="17" target="080702" weight="20"/>
+      <edge id="121" source="17" target="080703" weight="20"/>
+      <edge id="122" source="17" target="080705" weight="20"/>
+      <edge id="123" source="17" target="080801" weight="20"/>
+      <edge id="124" source="17" target="080901" weight="20"/>
+      <edge id="125" source="17" target="080902" weight="20"/>
+      <edge id="126" source="17" target="080903" weight="20"/>
+      <edge id="127" source="17" target="080905" weight="20"/>
+      <edge id="128" source="17" target="081201" weight="20"/>
+      <edge id="129" source="17" target="082107" weight="20"/>
+      <edge id="13" source="13" target="030601K" weight="20"/>
+      <edge id="130" source="2" target="070101" weight="12"/>
+      <edge id="131" source="2" target="070102" weight="12"/>
+      <edge id="132" source="2" target="071201" weight="12"/>
+      <edge id="133" source="2" target="080601" weight="12"/>
+      <edge id="134" source="2" target="080701" weight="12"/>
+      <edge id="135" source="2" target="080702" weight="12"/>
+      <edge id="136" source="2" target="080703" weight="12"/>
+      <edge id="137" source="2" target="080801" weight="12"/>
+      <edge id="138" source="2" target="080901" weight="12"/>
+      <edge id="139" source="2" target="080902" weight="12"/>
+      <edge id="14" source="13" target="030602K" weight="20"/>
+      <edge id="140" source="2" target="080903" weight="12"/>
+      <edge id="141" source="2" target="080905" weight="12"/>
+      <edge id="142" source="12" target="070102" weight="10"/>
+      <edge id="143" source="12" target="071201" weight="10"/>
+      <edge id="144" source="12" target="080301" weight="10"/>
+      <edge id="145" source="12" target="080701" weight="10"/>
+      <edge id="146" source="12" target="080703" weight="10"/>
+      <edge id="147" source="12" target="080705" weight="10"/>
+      <edge id="148" source="12" target="080714T" weight="10"/>
+      <edge id="149" source="12" target="080901" weight="10"/>
+      <edge id="15" source="13" target="071004" weight="20"/>
+      <edge id="150" source="12" target="080902" weight="10"/>
+      <edge id="151" source="12" target="080903" weight="10"/>
+      <edge id="152" source="3" target="070102" weight="15"/>
+      <edge id="153" source="3" target="080201" weight="15"/>
+      <edge id="154" source="3" target="080202" weight="15"/>
+      <edge id="155" source="3" target="080203" weight="15"/>
+      <edge id="156" source="3" target="080204" weight="15"/>
+      <edge id="157" source="3" target="080301" weight="15"/>
+      <edge id="158" source="3" target="080701" weight="15"/>
+      <edge id="159" source="3" target="080702" weight="15"/>
+      <edge id="16" source="13" target="071101" weight="20"/>
+      <edge id="160" source="3" target="080703" weight="15"/>
+      <edge id="161" source="3" target="080705" weight="15"/>
+      <edge id="162" source="3" target="080714T" weight="15"/>
+      <edge id="163" source="3" target="080801" weight="15"/>
+      <edge id="164" source="3" target="080901" weight="15"/>
+      <edge id="165" source="3" target="080902" weight="15"/>
+      <edge id="166" source="3" target="080903" weight="15"/>
+      <edge id="167" source="30" target="070102" weight="13"/>
+      <edge id="168" source="30" target="071201" weight="13"/>
+      <edge id="169" source="30" target="080601" weight="13"/>
+      <edge id="17" source="13" target="083101K" weight="20"/>
+      <edge id="170" source="30" target="080701" weight="13"/>
+      <edge id="171" source="30" target="080702" weight="13"/>
+      <edge id="172" source="30" target="080801" weight="13"/>
+      <edge id="173" source="30" target="080901" weight="13"/>
+      <edge id="174" source="30" target="080902" weight="13"/>
+      <edge id="175" source="30" target="080903" weight="13"/>
+      <edge id="176" source="30" target="080905" weight="13"/>
+      <edge id="177" source="30" target="120202" weight="13"/>
+      <edge id="178" source="30" target="120601" weight="13"/>
+      <edge id="179" source="30" target="120801" weight="13"/>
+      <edge id="18" source="13" target="120401" weight="20"/>
+      <edge id="180" source="21" target="070201" weight="7"/>
+      <edge id="181" source="21" target="070301" weight="7"/>
+      <edge id="182" source="21" target="070302" weight="7"/>
+      <edge id="183" source="21" target="071001" weight="7"/>
+      <edge id="184" source="21" target="071002" weight="7"/>
+      <edge id="185" source="21" target="080102" weight="7"/>
+      <edge id="186" source="21" target="080201" weight="7"/>
+      <edge id="187" source="22" target="070201" weight="15"/>
+      <edge id="188" source="22" target="070301" weight="15"/>
+      <edge id="189" source="22" target="070503" weight="15"/>
+      <edge id="19" source="13" target="120501" weight="20"/>
+      <edge id="190" source="22" target="070504" weight="15"/>
+      <edge id="191" source="22" target="070901" weight="15"/>
+      <edge id="192" source="22" target="080204" weight="15"/>
+      <edge id="193" source="22" target="080402" weight="15"/>
+      <edge id="194" source="22" target="080403" weight="15"/>
+      <edge id="195" source="22" target="080405" weight="15"/>
+      <edge id="196" source="22" target="080406" weight="15"/>
+      <edge id="197" source="22" target="080501" weight="15"/>
+      <edge id="198" source="22" target="080503T" weight="15"/>
+      <edge id="199" source="22" target="081002" weight="15"/>
+      <edge id="2" source="13" target="020102" weight="20"/>
+      <edge id="20" source="10" target="020101" weight="10"/>
+      <edge id="200" source="22" target="081003" weight="15"/>
+      <edge id="201" source="22" target="082502" weight="15"/>
+      <edge id="202" source="15" target="070302" weight="12"/>
+      <edge id="203" source="15" target="071001" weight="12"/>
+      <edge id="204" source="15" target="071002" weight="12"/>
+      <edge id="205" source="15" target="081301" weight="12"/>
+      <edge id="206" source="15" target="081302" weight="12"/>
+      <edge id="207" source="15" target="082601" weight="12"/>
+      <edge id="208" source="15" target="083001" weight="12"/>
+      <edge id="209" source="15" target="083002T" weight="12"/>
+      <edge id="21" source="10" target="020102" weight="10"/>
+      <edge id="210" source="15" target="100701" weight="12"/>
+      <edge id="211" source="15" target="100801" weight="12"/>
+      <edge id="212" source="15" target="100802" weight="12"/>
+      <edge id="213" source="15" target="120202" weight="12"/>
+      <edge id="214" source="1" target="070503" weight="12"/>
+      <edge id="215" source="1" target="081001" weight="12"/>
+      <edge id="216" source="1" target="081002" weight="12"/>
+      <edge id="217" source="1" target="081003" weight="12"/>
+      <edge id="218" source="1" target="081005T" weight="12"/>
+      <edge id="219" source="1" target="081101" weight="12"/>
+      <edge id="22" source="10" target="020301K" weight="10"/>
+      <edge id="220" source="1" target="081404T" weight="12"/>
+      <edge id="221" source="1" target="082801" weight="12"/>
+      <edge id="222" source="1" target="082802" weight="12"/>
+      <edge id="223" source="1" target="120201K" weight="12"/>
+      <edge id="224" source="1" target="120203K" weight="12"/>
+      <edge id="225" source="1" target="120401" weight="12"/>
+      <edge id="226" source="14" target="071001" weight="5"/>
+      <edge id="227" source="14" target="082601" weight="5"/>
+      <edge id="228" source="14" target="083001" weight="5"/>
+      <edge id="229" source="14" target="083002T" weight="5"/>
+      <edge id="23" source="10" target="020302" weight="10"/>
+      <edge id="230" source="14" target="090109T" weight="5"/>
+      <edge id="231" source="5" target="080102" weight="15"/>
+      <edge id="232" source="5" target="080201" weight="15"/>
+      <edge id="233" source="5" target="080202" weight="15"/>
+      <edge id="234" source="5" target="080203" weight="15"/>
+      <edge id="235" source="5" target="080204" weight="15"/>
+      <edge id="236" source="5" target="080206" weight="15"/>
+      <edge id="237" source="5" target="080402" weight="15"/>
+      <edge id="238" source="5" target="080403" weight="15"/>
+      <edge id="239" source="5" target="080405" weight="15"/>
+      <edge id="24" source="10" target="020401" weight="10"/>
+      <edge id="240" source="5" target="080406" weight="15"/>
+      <edge id="241" source="5" target="080407" weight="15"/>
+      <edge id="242" source="5" target="080801" weight="15"/>
+      <edge id="243" source="5" target="081301" weight="15"/>
+      <edge id="244" source="5" target="082402" weight="15"/>
+      <edge id="245" source="5" target="090501" weight="15"/>
+      <edge id="246" source="6" target="080102" weight="12"/>
+      <edge id="247" source="6" target="081001" weight="12"/>
+      <edge id="248" source="6" target="081002" weight="12"/>
+      <edge id="249" source="6" target="081003" weight="12"/>
+      <edge id="25" source="10" target="120201K" weight="10"/>
+      <edge id="250" source="6" target="081005T" weight="12"/>
+      <edge id="251" source="6" target="081201" weight="12"/>
+      <edge id="252" source="6" target="081404T" weight="12"/>
+      <edge id="253" source="6" target="090502" weight="12"/>
+      <edge id="254" source="6" target="120103" weight="12"/>
+      <edge id="255" source="6" target="120105" weight="12"/>
+      <edge id="256" source="6" target="130206" weight="12"/>
+      <edge id="257" source="6" target="130503" weight="12"/>
+      <edge id="258" source="24" target="080201" weight="11"/>
+      <edge id="259" source="24" target="080202" weight="11"/>
+      <edge id="26" source="10" target="120202" weight="10"/>
+      <edge id="260" source="24" target="080203" weight="11"/>
+      <edge id="261" source="24" target="080204" weight="11"/>
+      <edge id="262" source="24" target="080206" weight="11"/>
+      <edge id="263" source="24" target="080207" weight="11"/>
+      <edge id="264" source="24" target="080301" weight="11"/>
+      <edge id="265" source="24" target="080601" weight="11"/>
+      <edge id="266" source="24" target="080801" weight="11"/>
+      <edge id="267" source="24" target="082302" weight="11"/>
+      <edge id="268" source="24" target="083103TK" weight="11"/>
+      <edge id="269" source="7" target="080501" weight="12"/>
+      <edge id="27" source="10" target="120203K" weight="10"/>
+      <edge id="270" source="7" target="080503T" weight="12"/>
+      <edge id="271" source="7" target="081001" weight="12"/>
+      <edge id="272" source="7" target="081002" weight="12"/>
+      <edge id="273" source="7" target="081003" weight="12"/>
+      <edge id="274" source="7" target="081101" weight="12"/>
+      <edge id="275" source="7" target="081404T" weight="12"/>
+      <edge id="276" source="7" target="082502" weight="12"/>
+      <edge id="277" source="7" target="082503" weight="12"/>
+      <edge id="278" source="7" target="082801" weight="12"/>
+      <edge id="279" source="7" target="082802" weight="12"/>
+      <edge id="28" source="10" target="120601" weight="10"/>
+      <edge id="280" source="7" target="090201" weight="12"/>
+      <edge id="281" source="4" target="080601" weight="6"/>
+      <edge id="282" source="4" target="080701" weight="6"/>
+      <edge id="283" source="4" target="080702" weight="6"/>
+      <edge id="284" source="4" target="080703" weight="6"/>
+      <edge id="285" source="4" target="080705" weight="6"/>
+      <edge id="286" source="4" target="080714T" weight="6"/>
+      <edge id="287" source="23" target="081301" weight="18"/>
+      <edge id="288" source="23" target="081302" weight="18"/>
+      <edge id="289" source="23" target="082601" weight="18"/>
+      <edge id="29" source="10" target="120801" weight="10"/>
+      <edge id="290" source="23" target="083002T" weight="18"/>
+      <edge id="291" source="23" target="090401" weight="18"/>
+      <edge id="292" source="23" target="100201K" weight="18"/>
+      <edge id="293" source="23" target="100206TK" weight="18"/>
+      <edge id="294" source="23" target="100301K" weight="18"/>
+      <edge id="295" source="23" target="100401K" weight="18"/>
+      <edge id="296" source="23" target="100501K" weight="18"/>
+      <edge id="297" source="23" target="100502K" weight="18"/>
+      <edge id="298" source="23" target="100601K" weight="18"/>
+      <edge id="299" source="23" target="100701" weight="18"/>
+      <edge id="3" source="13" target="020202" weight="20"/>
+      <edge id="30" source="8" target="020102" weight="10"/>
+      <edge id="300" source="23" target="100702" weight="18"/>
+      <edge id="301" source="23" target="100801" weight="18"/>
+      <edge id="302" source="23" target="100802" weight="18"/>
+      <edge id="303" source="23" target="101001" weight="18"/>
+      <edge id="304" source="23" target="101101" weight="18"/>
+      <edge id="305" source="11" target="081302" weight="11"/>
+      <edge id="306" source="11" target="082402" weight="11"/>
+      <edge id="307" source="11" target="082701" weight="11"/>
+      <edge id="308" source="11" target="083001" weight="11"/>
+      <edge id="309" source="11" target="083002T" weight="11"/>
+      <edge id="31" source="8" target="020202" weight="10"/>
+      <edge id="310" source="11" target="090101" weight="11"/>
+      <edge id="311" source="11" target="090109T" weight="11"/>
+      <edge id="312" source="11" target="090301" weight="11"/>
+      <edge id="313" source="11" target="090401" weight="11"/>
+      <edge id="314" source="11" target="090501" weight="11"/>
+      <edge id="315" source="11" target="120301" weight="11"/>
+      <edge id="316" source="20" target="082302" weight="11"/>
+      <edge id="317" source="20" target="090101" weight="11"/>
+      <edge id="318" source="20" target="090102" weight="11"/>
+      <edge id="319" source="20" target="090103" weight="11"/>
+      <edge id="32" source="8" target="020301K" weight="10"/>
+      <edge id="320" source="20" target="090201" weight="11"/>
+      <edge id="321" source="20" target="090202" weight="11"/>
+      <edge id="322" source="20" target="090301" weight="11"/>
+      <edge id="323" source="20" target="090401" weight="11"/>
+      <edge id="324" source="20" target="090501" weight="11"/>
+      <edge id="325" source="20" target="090502" weight="11"/>
+      <edge id="326" source="20" target="120301" weight="11"/>
+      <edge id="33" source="8" target="020302" weight="10"/>
+      <edge id="34" source="8" target="020401" weight="10"/>
+      <edge id="35" source="8" target="070101" weight="10"/>
+      <edge id="36" source="8" target="071201" weight="10"/>
+      <edge id="37" source="8" target="120201K" weight="10"/>
+      <edge id="38" source="8" target="120202" weight="10"/>
+      <edge id="39" source="8" target="120203K" weight="10"/>
+      <edge id="4" source="13" target="020301K" weight="20"/>
+      <edge id="40" source="19" target="020301K" weight="11"/>
+      <edge id="41" source="19" target="020302" weight="11"/>
+      <edge id="42" source="19" target="040104" weight="11"/>
+      <edge id="43" source="19" target="071101" weight="11"/>
+      <edge id="44" source="19" target="081602" weight="11"/>
+      <edge id="45" source="19" target="120201K" weight="11"/>
+      <edge id="46" source="19" target="120203K" weight="11"/>
+      <edge id="47" source="19" target="120401" weight="11"/>
+      <edge id="48" source="19" target="120601" weight="11"/>
+      <edge id="49" source="19" target="120801" weight="11"/>
+      <edge id="5" source="13" target="020302" weight="20"/>
+      <edge id="50" source="19" target="130508" weight="11"/>
+      <edge id="51" source="28" target="020301K" weight="14"/>
+      <edge id="52" source="28" target="020302" weight="14"/>
+      <edge id="53" source="28" target="050301" weight="14"/>
+      <edge id="54" source="28" target="050303" weight="14"/>
+      <edge id="55" source="28" target="070102" weight="14"/>
+      <edge id="56" source="28" target="071201" weight="14"/>
+      <edge id="57" source="28" target="080701" weight="14"/>
+      <edge id="58" source="28" target="080702" weight="14"/>
+      <edge id="59" source="28" target="080801" weight="14"/>
+      <edge id="6" source="13" target="020401" weight="20"/>
+      <edge id="60" source="28" target="080901" weight="14"/>
+      <edge id="61" source="28" target="080902" weight="14"/>
+      <edge id="62" source="28" target="080903" weight="14"/>
+      <edge id="63" source="28" target="120202" weight="14"/>
+      <edge id="64" source="28" target="120801" weight="14"/>
+      <edge id="65" source="9" target="020401" weight="8"/>
+      <edge id="66" source="9" target="050201" weight="8"/>
+      <edge id="67" source="9" target="050207" weight="8"/>
+      <edge id="68" source="9" target="050209" weight="8"/>
+      <edge id="69" source="9" target="050238" weight="8"/>
+      <edge id="7" source="13" target="030101K" weight="20"/>
+      <edge id="70" source="9" target="050261" weight="8"/>
+      <edge id="71" source="9" target="120202" weight="8"/>
+      <edge id="72" source="9" target="120901K" weight="8"/>
+      <edge id="73" source="18" target="040102" weight="23"/>
+      <edge id="74" source="18" target="040104" weight="23"/>
+      <edge id="75" source="18" target="040107" weight="23"/>
+      <edge id="76" source="18" target="040201" weight="23"/>
+      <edge id="77" source="18" target="040202K" weight="23"/>
+      <edge id="78" source="18" target="040204K" weight="23"/>
+      <edge id="79" source="18" target="040205" weight="23"/>
+      <edge id="8" source="13" target="030201" weight="20"/>
+      <edge id="80" source="18" target="050101" weight="23"/>
+      <edge id="81" source="18" target="050102" weight="23"/>
+      <edge id="82" source="18" target="050301" weight="23"/>
+      <edge id="83" source="18" target="050303" weight="23"/>
+      <edge id="84" source="18" target="050305" weight="23"/>
+      <edge id="85" source="18" target="060101" weight="23"/>
+      <edge id="86" source="18" target="060103" weight="23"/>
+      <edge id="87" source="18" target="120901K" weight="23"/>
+      <edge id="88" source="18" target="130201" weight="23"/>
+      <edge id="89" source="18" target="130202" weight="23"/>
+      <edge id="9" source="13" target="030301" weight="20"/>
+      <edge id="90" source="18" target="130301" weight="23"/>
+      <edge id="91" source="18" target="130309" weight="23"/>
+      <edge id="92" source="18" target="130310" weight="23"/>
+      <edge id="93" source="18" target="130401" weight="23"/>
+      <edge id="94" source="18" target="130502" weight="23"/>
+      <edge id="95" source="18" target="130508" weight="23"/>
+      <edge id="96" source="16" target="070101" weight="14"/>
+      <edge id="97" source="16" target="070102" weight="14"/>
+      <edge id="98" source="16" target="070301" weight="14"/>
+      <edge id="99" source="16" target="070302" weight="14"/>
+    </edges>
+  </graph>
+</gexf>

@@ -1,49 +1,51 @@
 
 from gexf import Gexf
 from lxml import etree
-from model.school_chanye import search_school,search_chanye,search_school_chanye,search_school_id
+from model.chanye_zhuanye import search_xueke,search_chanye,search_chanye_zhuan,search_chanye_id
+
 
 import faker
 f = faker.Faker(locale='zh-CN')
 
-
-school = search_school()
 chanye = search_chanye()
-school_chanye = search_school_chanye()
-school_id = search_school_id()
+zhuanye = search_xueke()
+chanye_zhuanye = search_chanye_zhuan()
+chanye_id = search_chanye_id()
 
-gexf = Gexf("school","chanye")
-graph = gexf.addGraph("school","jiaoyu","chanye")
+print(type(chanye_zhuanye.keys()))
 
-atr1 = graph.addNodeAttribute(force_id='modularity_class',title = 'schoolce',defaultValue='true',type='integer')
-atr2 = graph.addNodeAttribute(force_id='chanye',title='chan_ye',defaultValue='true',type='string')
+gexf = Gexf("chanye","zhuanye")
+graph = gexf.addGraph("chanye","jiaoyu","zhuanye")
 
-for node in school:
-    node_type = 'school'
-    tmp_node = graph.addNode(str(node[0]),str(node[1]))
-    tmp_node.addAttribute(atr1,str(node[0]-1))
+atr1 = graph.addNodeAttribute(force_id='modularity_class',title = 'chanye',defaultValue='true',type='integer')
+atr2 = graph.addNodeAttribute(force_id='zhuanye',title='zhuan_ye',defaultValue='true',type='string')
+
 
 
 for node in chanye:
     node_type = 'chanye'
     tmp_node = graph.addNode(str(node[0]), str(node[1]))
+    tmp_node.addAttribute(atr1,str(int(node[0])-1))
+for node in zhuanye:
+    node_type = 'zhuanye'
+    tmp_node = graph.addNode(str(node[0]), str(node[1]))
     tmp_node.addAttribute(atr2, node_type)
 
 
 j = 0
-for node in school_chanye:
-    for i in school_chanye[node]:
-        graph.addEdge(str(j),str(node),str(i),weight=str(len(school_chanye[node])))
+for node in chanye_zhuanye:
+    for i in chanye_zhuanye[node]:
+        graph.addEdge(str(j),str(node),str(i),weight=str(len(chanye_zhuanye[node])))
         j+=1
 
-
 node_id_list = []
-for i in school:
+for i in chanye:
     node_id_list.append(str(i[0]))
-for j in chanye:
+for j in zhuanye:
     node_id_list.append(str(j[0]))
 node_rgb_list = {}
 import random
+
 for i in node_id_list:
     node_rgb_list.setdefault(i, []).append(f.rgb_color())
 
@@ -59,13 +61,10 @@ for gexf_elem in gexf_xml:
                 print("dealing with nodes viz")
                 for node in gexf_nodes_links:
                     tmp_id = node.get('id')
-                    # print(tmp_id)
-                    if tmp_id in school_id and int(tmp_id) in school_chanye.keys():
+                    if tmp_id in chanye_id and tmp_id in chanye_zhuanye.keys():
                         node_id = tmp_id
                         node_rgb = node_rgb_list[node_id]
-                        # size_value = str(len(school_xuke[node_id]))
-                        print(str(len(school_chanye[int(node_id)])))
-                        size_value = str(len(school_chanye[int(node_id)]))
+                        size_value = str(len(chanye_zhuanye[node_id])*5)
                         size = etree.SubElement(node, '{%s}size' % gexf.viz)
                         size.set('value', size_value)
                     else:
