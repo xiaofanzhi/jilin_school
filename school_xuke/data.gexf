@@ -1,0 +1,1648 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2019-06-01">
+    <creator>school</creator>
+    <description>xueke</description>
+  </meta>
+  <graph defaultedgetype="directed" label="xueke" mode="static" timeformat="double">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="schoolce" type="integer">
+        <default>true</default>
+      </attribute>
+      <attribute id="xueke" title="xu_ke" type="string">
+        <default>true</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="0101" label="哲学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="42.54987989335041" y="-696.7659501970058"/>
+        <viz:color r="163" g="51" b="220"/>
+      </node>
+      <node id="010101" label="马克思主义哲学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="502.35226480126516" y="-586.8942528630519"/>
+        <viz:color r="142" g="253" b="33"/>
+      </node>
+      <node id="0201" label="理论经济学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="699.629213199456" y="-266.05759937802964"/>
+        <viz:color r="16" g="153" b="205"/>
+      </node>
+      <node id="020101" label="政治经济学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="493.95664616032127" y="-883.8063822634389"/>
+        <viz:color r="7" g="106" b="4"/>
+      </node>
+      <node id="020115" label="世界经济">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="381.9723209694582" y="-564.8692395324692"/>
+        <viz:color r="251" g="255" b="171"/>
+      </node>
+      <node id="0202" label="应用经济学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-243.2584730522259" y="-819.3016482582603"/>
+        <viz:color r="233" g="247" b="219"/>
+      </node>
+      <node id="0301" label="法学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="563.3286521306773" y="-753.9474740389542"/>
+        <viz:color r="37" g="127" b="67"/>
+      </node>
+      <node id="0302" label="政治学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-35.74169647531039" y="-446.75966699018903"/>
+        <viz:color r="28" g="108" b="74"/>
+      </node>
+      <node id="0303" label="社会学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-803.4404961816549" y="576.9197588054001"/>
+        <viz:color r="230" g="181" b="124"/>
+      </node>
+      <node id="030301" label="社会学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="598.6035282681844" y="-707.5886458021666"/>
+        <viz:color r="163" g="230" b="32"/>
+      </node>
+      <node id="0304" label="民族学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-660.8068591037949" y="434.5697749991534"/>
+        <viz:color r="111" g="39" b="11"/>
+      </node>
+      <node id="0305" label="马克思主义理论">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-897.3040939299831" y="-444.38651228456393"/>
+        <viz:color r="192" g="95" b="52"/>
+      </node>
+      <node id="030501" label="马克思主义基本原理">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="553.4692783510052" y="98.45775044314291"/>
+        <viz:color r="63" g="179" b="132"/>
+      </node>
+      <node id="030503" label="马克思主义中国化研究">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-332.8178788138006" y="23.389456011081847"/>
+        <viz:color r="141" g="246" b="104"/>
+      </node>
+      <node id="030505" label="思想政治教育">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="279.2629508557186" y="493.4734896652494"/>
+        <viz:color r="180" g="168" b="48"/>
+      </node>
+      <node id="0401" label="教育学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-411.80596172836835" y="-173.38667633597538"/>
+        <viz:color r="228" g="107" b="205"/>
+      </node>
+      <node id="040102" label="课程与教学论">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-697.9974593639406" y="365.24115472456674"/>
+        <viz:color r="138" g="89" b="252"/>
+      </node>
+      <node id="040106" label="高等教育学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="398.8447030135603" y="823.5469989229448"/>
+        <viz:color r="30" g="107" b="187"/>
+      </node>
+      <node id="040108" label="职业技术教育学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-191.95727065620724" y="-12.55677204256915"/>
+        <viz:color r="182" g="4" b="245"/>
+      </node>
+      <node id="040110" label="教育技术学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="631.7060263693038" y="-6.157153822993905"/>
+        <viz:color r="230" g="110" b="43"/>
+      </node>
+      <node id="0402" label="心理学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-314.15465043632355" y="43.99896307156814"/>
+        <viz:color r="131" g="238" b="229"/>
+      </node>
+      <node id="0403" label="体育学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="30.82822336962272" y="423.3699994085446"/>
+        <viz:color r="233" g="183" b="153"/>
+      </node>
+      <node id="040303" label="体育教育训练学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="116.33033381773112" y="38.62175763300013"/>
+        <viz:color r="128" g="53" b="22"/>
+      </node>
+      <node id="0501" label="中国语言文学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="865.8627012859081" y="-780.3522926212194"/>
+        <viz:color r="31" g="103" b="249"/>
+      </node>
+      <node id="0502" label="外国语言文学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="297.2106533311953" y="-411.95269354790884"/>
+        <viz:color r="151" g="220" b="57"/>
+      </node>
+      <node id="050211" label="外国语言学及应用语言学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="282.79723290524703" y="54.22835155884695"/>
+        <viz:color r="29" g="180" b="204"/>
+      </node>
+      <node id="0503" label="新闻传播学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="65.04704218243182" y="-64.53876959858064"/>
+        <viz:color r="64" g="116" b="160"/>
+      </node>
+      <node id="0601" label="考古学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="539.535748589522" y="759.509885399312"/>
+        <viz:color r="223" g="198" b="82"/>
+      </node>
+      <node id="060105" label="专门史">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="107.44159989507261" y="406.3338110212451"/>
+        <viz:color r="136" g="116" b="254"/>
+      </node>
+      <node id="0602" label="中国史">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="120.04600635498537" y="615.8941262165154"/>
+        <viz:color r="171" g="236" b="105"/>
+      </node>
+      <node id="060204" label="专门史">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="153.10850652378758" y="-527.2319493844416"/>
+        <viz:color r="56" g="201" b="204"/>
+      </node>
+      <node id="0603" label="世界史">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-189.36372038071966" y="-259.07545727175125"/>
+        <viz:color r="219" g="53" b="89"/>
+      </node>
+      <node id="0701" label="数学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-823.4270612891822" y="448.4057862239997"/>
+        <viz:color r="254" g="138" b="39"/>
+      </node>
+      <node id="0702" label="物理学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="762.3761606763337" y="-139.6673271312378"/>
+        <viz:color r="180" g="132" b="252"/>
+      </node>
+      <node id="070205" label="凝聚态物理">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="193.0710535060407" y="-793.2915342214238"/>
+        <viz:color r="215" g="222" b="145"/>
+      </node>
+      <node id="0703" label="化学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-688.9560895752088" y="-87.26184786384408"/>
+        <viz:color r="100" g="212" b="109"/>
+      </node>
+      <node id="070304" label="物理化学（含：化学物理）">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="339.4680890346374" y="641.2050044394914"/>
+        <viz:color r="212" g="182" b="134"/>
+      </node>
+      <node id="0705" label="地理学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-786.0049202814835" y="-567.8779977490988"/>
+        <viz:color r="49" g="124" b="125"/>
+      </node>
+      <node id="070501" label="自然地理学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-353.9484304132974" y="750.5704187321878"/>
+        <viz:color r="98" g="61" b="71"/>
+      </node>
+      <node id="070503" label="地图学与地理信息系统">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="237.93447423961675" y="735.5678509349555"/>
+        <viz:color r="233" g="77" b="182"/>
+      </node>
+      <node id="070704" label="海洋地质">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="656.8352243589845" y="404.4126245666025"/>
+        <viz:color r="150" g="10" b="172"/>
+      </node>
+      <node id="0708" label="地球物理学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-98.13123993187673" y="257.0149876641576"/>
+        <viz:color r="232" g="80" b="194"/>
+      </node>
+      <node id="0709" label="地质学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-618.2161452550141" y="281.19711582475315"/>
+        <viz:color r="78" g="65" b="145"/>
+      </node>
+      <node id="0710" label="生物学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-74.70140633242863" y="247.51855502707622"/>
+        <viz:color r="178" g="199" b="26"/>
+      </node>
+      <node id="071003" label="生理学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-10.554362962692721" y="-832.30363273276"/>
+        <viz:color r="168" g="151" b="121"/>
+      </node>
+      <node id="071010" label="生物化学与分子生物学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-184.1129108630903" y="-441.4009470710902"/>
+        <viz:color r="4" g="145" b="227"/>
+      </node>
+      <node id="0713" label="生态学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="639.3287800483295" y="668.8940577586768"/>
+        <viz:color r="231" g="83" b="223"/>
+      </node>
+      <node id="0714" label="统计学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-134.32454188531074" y="348.93926117068736"/>
+        <viz:color r="86" g="216" b="74"/>
+      </node>
+      <node id="0801" label="力学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-22.772610519468117" y="-43.8481397794493"/>
+        <viz:color r="253" g="214" b="145"/>
+      </node>
+      <node id="0802" label="机械工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-511.35021058212516" y="-682.576331699467"/>
+        <viz:color r="137" g="94" b="127"/>
+      </node>
+      <node id="0803" label="光学工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="126.11961238323443" y="-62.33785213715976"/>
+        <viz:color r="171" g="100" b="224"/>
+      </node>
+      <node id="0804" label="仪器科学与技术">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="401.59902680682535" y="551.6585163145614"/>
+        <viz:color r="19" g="224" b="76"/>
+      </node>
+      <node id="0805" label="材料科学与工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-353.8575875807245" y="-438.3996507984399"/>
+        <viz:color r="169" g="210" b="149"/>
+      </node>
+      <node id="080501" label="材料物理与化学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="362.6542745227814" y="403.88677205307476"/>
+        <viz:color r="154" g="181" b="198"/>
+      </node>
+      <node id="0807" label="动力工程及工程热物理">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-445.0627592404621" y="595.9398063135354"/>
+        <viz:color r="141" g="81" b="181"/>
+      </node>
+      <node id="0808" label="电气工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-260.72888058876515" y="-145.88605868456148"/>
+        <viz:color r="223" g="22" b="31"/>
+      </node>
+      <node id="080804" label="电力电子与电力传动">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="261.0272870258884" y="198.9546838939857"/>
+        <viz:color r="248" g="2" b="158"/>
+      </node>
+      <node id="080805" label="电工理论与新技术">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="97.31048634185743" y="-552.2113782920089"/>
+        <viz:color r="159" g="156" b="224"/>
+      </node>
+      <node id="0809" label="电子科学与技术">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="23.18864064201091" y="-181.32419744036974"/>
+        <viz:color r="40" g="22" b="99"/>
+      </node>
+      <node id="0810" label="信息与通信工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-189.35259927751667" y="521.6765596784876"/>
+        <viz:color r="86" g="94" b="158"/>
+      </node>
+      <node id="0811" label="控制科学与工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-432.6303503981892" y="-502.48732848645494"/>
+        <viz:color r="93" g="62" b="246"/>
+      </node>
+      <node id="0812" label="计算机科学与技术">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="132.33436694006787" y="868.6148173905144"/>
+        <viz:color r="255" g="11" b="247"/>
+      </node>
+      <node id="081203" label="计算机应用技术">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-692.1238886445276" y="-274.09857227945156"/>
+        <viz:color r="165" g="25" b="1"/>
+      </node>
+      <node id="0813" label="建筑学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="661.0858694644669" y="-179.45399544555391"/>
+        <viz:color r="16" g="150" b="124"/>
+      </node>
+      <node id="0814" label="土木工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="495.5358522559018" y="269.6630723246526"/>
+        <viz:color r="165" g="228" b="252"/>
+      </node>
+      <node id="081402" label="结构工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="259.0671978766097" y="-401.8478617215274"/>
+        <viz:color r="208" g="94" b="189"/>
+      </node>
+      <node id="0815" label="水利工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-292.77852352234004" y="90.43597973851024"/>
+        <viz:color r="66" g="157" b="122"/>
+      </node>
+      <node id="0816" label="测绘科学与工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-591.8017079543829" y="774.0994912604574"/>
+        <viz:color r="36" g="68" b="129"/>
+      </node>
+      <node id="0817" label="化学工程与技术">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-561.0834961427976" y="103.2860160121146"/>
+        <viz:color r="221" g="203" b="130"/>
+      </node>
+      <node id="081704" label="应用化学   ">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="629.9066018326896" y="52.691098230773605"/>
+        <viz:color r="75" g="250" b="12"/>
+      </node>
+      <node id="0818" label="地质资源与地质工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="20.876977741594715" y="-64.301239918281"/>
+        <viz:color r="126" g="153" b="105"/>
+      </node>
+      <node id="0822" label="轻工技术与工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="229.46127411398447" y="-847.4215116348834"/>
+        <viz:color r="171" g="116" b="110"/>
+      </node>
+      <node id="0823" label="交通运输工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="493.028629030332" y="-62.099550914686574"/>
+        <viz:color r="182" g="237" b="203"/>
+      </node>
+      <node id="0825" label="航空宇航科学与技术">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="805.0923452818615" y="10.410305095593458"/>
+        <viz:color r="50" g="118" b="203"/>
+      </node>
+      <node id="0828" label="农业工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-557.2682725449605" y="-45.498623400907604"/>
+        <viz:color r="102" g="232" b="110"/>
+      </node>
+      <node id="0829" label="林业工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="293.6732432691631" y="885.6842479108534"/>
+        <viz:color r="129" g="24" b="96"/>
+      </node>
+      <node id="0830" label="环境工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-451.9431931910197" y="-479.6299766525339"/>
+        <viz:color r="6" g="100" b="154"/>
+      </node>
+      <node id="083002" label="环境工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="266.45497949992637" y="-95.00477154005296"/>
+        <viz:color r="117" g="190" b="177"/>
+      </node>
+      <node id="0831" label="生物医学工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="284.6877415845065" y="376.79485871735324"/>
+        <viz:color r="240" g="144" b="178"/>
+      </node>
+      <node id="0832" label="食品科学与工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-216.0828488767163" y="-870.1093356613641"/>
+        <viz:color r="70" g="147" b="57"/>
+      </node>
+      <node id="0833" label="城乡规划学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="590.8253340813035" y="531.6709644174612"/>
+        <viz:color r="180" g="254" b="222"/>
+      </node>
+      <node id="0834" label="风景园林学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="513.8813878349793" y="333.09163845399803"/>
+        <viz:color r="127" g="92" b="225"/>
+      </node>
+      <node id="0835" label="软件工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="600.5093846242189" y="644.0411249737897"/>
+        <viz:color r="202" g="176" b="183"/>
+      </node>
+      <node id="0836" label="生物工程">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="636.9808584250363" y="169.8755605889935"/>
+        <viz:color r="243" g="92" b="245"/>
+      </node>
+      <node id="0839" label="网络空间安全">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-866.5881457340441" y="-313.1039355554134"/>
+        <viz:color r="7" g="85" b="227"/>
+      </node>
+      <node id="0901" label="作物学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="430.0575390244071" y="224.30940463065122"/>
+        <viz:color r="29" g="162" b="152"/>
+      </node>
+      <node id="0902" label="园艺学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="40.407342886770266" y="660.5126449282748"/>
+        <viz:color r="66" g="185" b="38"/>
+      </node>
+      <node id="0903" label="农业资源利用">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="121.33309702460485" y="253.4797828840824"/>
+        <viz:color r="49" g="196" b="233"/>
+      </node>
+      <node id="0904" label="植物保护">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="190.03554406866056" y="473.7530324580234"/>
+        <viz:color r="65" g="27" b="17"/>
+      </node>
+      <node id="0905" label="畜牧学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="667.7786968574871" y="520.3332443909667"/>
+        <viz:color r="8" g="11" b="51"/>
+      </node>
+      <node id="0906" label="兽医学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-805.1313121186881" y="266.7685728267122"/>
+        <viz:color r="149" g="224" b="118"/>
+      </node>
+      <node id="0907" label="林学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="458.99980223493526" y="-387.48317150975595"/>
+        <viz:color r="84" g="28" b="51"/>
+      </node>
+      <node id="090705" label="野生动植物保护与利用">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="895.0544721048464" y="-830.5549439776544"/>
+        <viz:color r="176" g="169" b="70"/>
+      </node>
+      <node id="090706" label="园林植物与观赏园艺">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-339.28042219554584" y="28.763934909189402"/>
+        <viz:color r="228" g="7" b="250"/>
+      </node>
+      <node id="0909" label="草学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-198.37486707723986" y="661.7581146071093"/>
+        <viz:color r="107" g="19" b="187"/>
+      </node>
+      <node id="1" label="吉林大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="65"/>
+        <viz:position x="800.7337638277822" y="151.84105003335344"/>
+        <viz:color r="143" g="119" b="52"/>
+      </node>
+      <node id="10" label="北华大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"/>
+        </attvalues>
+        <viz:size value="23"/>
+        <viz:position x="-350.8272541991141" y="-12.495118392659833"/>
+        <viz:color r="8" g="154" b="155"/>
+      </node>
+      <node id="1001" label="基础医学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-550.7306747955367" y="390.0236471987314"/>
+        <viz:color r="201" g="171" b="52"/>
+      </node>
+      <node id="100102" label="免疫学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-347.08639628963556" y="-404.99575132374974"/>
+        <viz:color r="6" g="172" b="238"/>
+      </node>
+      <node id="100103" label="病原生物学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="728.7132126367956" y="373.98938439250855"/>
+        <viz:color r="78" g="139" b="122"/>
+      </node>
+      <node id="1002" label="临床医学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="109.96375369784505" y="328.27468751700576"/>
+        <viz:color r="104" g="125" b="49"/>
+      </node>
+      <node id="1003" label="口腔医学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="726.4054004251439" y="176.57044611930746"/>
+        <viz:color r="240" g="171" b="180"/>
+      </node>
+      <node id="1004" label="公共卫生与预防医学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="783.0901921547863" y="-885.1260328625632"/>
+        <viz:color r="228" g="195" b="72"/>
+      </node>
+      <node id="100405" label="卫生毒理学   ">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="139.28958004864808" y="-216.34071546920825"/>
+        <viz:color r="243" g="228" b="244"/>
+      </node>
+      <node id="1005" label="中医学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="830.4560045144331" y="-805.4536789246788"/>
+        <viz:color r="229" g="166" b="12"/>
+      </node>
+      <node id="1006" label="中西医结合">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="6.010270056847503" y="452.1720680741546"/>
+        <viz:color r="245" g="4" b="118"/>
+      </node>
+      <node id="100602" label="中西医结合临床   ">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-220.901610557293" y="108.73375848074829"/>
+        <viz:color r="13" g="130" b="133"/>
+      </node>
+      <node id="1007" label="药学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-415.44949837462804" y="-807.6661564585083"/>
+        <viz:color r="17" g="60" b="178"/>
+      </node>
+      <node id="1008" label="中药学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="457.94577196198134" y="-234.16800448154663"/>
+        <viz:color r="72" g="5" b="118"/>
+      </node>
+      <node id="1011" label="护理学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="108.41822985811939" y="460.1200191359219"/>
+        <viz:color r="88" g="149" b="245"/>
+      </node>
+      <node id="11" label="吉林财经大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"/>
+        </attvalues>
+        <viz:size value="9"/>
+        <viz:position x="797.7065940479633" y="580.2219983143614"/>
+        <viz:color r="126" g="86" b="145"/>
+      </node>
+      <node id="110504" label="军事情报学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="301.8421912430913" y="-13.740065218341783"/>
+        <viz:color r="107" g="226" b="91"/>
+      </node>
+      <node id="110803" label="军事装备学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-476.60604133541153" y="-422.9185642562791"/>
+        <viz:color r="49" g="150" b="209"/>
+      </node>
+      <node id="12" label="吉林外国语大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="11"/>
+        </attvalues>
+        <viz:size value="1"/>
+        <viz:position x="808.4401893106524" y="686.175267784452"/>
+        <viz:color r="35" g="77" b="213"/>
+      </node>
+      <node id="1201" label="管理科学与工程（不设二级）">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="275.27678118239874" y="-135.703714855405"/>
+        <viz:color r="197" g="43" b="250"/>
+      </node>
+      <node id="1202" label="工商管理">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="788.4863527172786" y="834.896887225133"/>
+        <viz:color r="142" g="36" b="188"/>
+      </node>
+      <node id="120204" label="技术经济及管理">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-236.3061980754552" y="487.6834642730114"/>
+        <viz:color r="162" g="153" b="221"/>
+      </node>
+      <node id="1203" label="农林经济管理学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="782.4919667112829" y="144.905379100373"/>
+        <viz:color r="252" g="204" b="170"/>
+      </node>
+      <node id="1204" label="公共管理">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="416.9735669941979" y="-739.0000369448306"/>
+        <viz:color r="162" g="22" b="232"/>
+      </node>
+      <node id="1205" label="图书馆、情报与档案管理">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-807.7008702225327" y="-99.57142750193714"/>
+        <viz:color r="148" g="225" b="85"/>
+      </node>
+      <node id="13" label="长春师范大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="12"/>
+        </attvalues>
+        <viz:size value="12"/>
+        <viz:position x="91.8682560236914" y="302.70008569585616"/>
+        <viz:color r="93" g="147" b="80"/>
+      </node>
+      <node id="1301" label="艺术学理论">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-774.7859203560878" y="-441.87031213144337"/>
+        <viz:color r="246" g="202" b="22"/>
+      </node>
+      <node id="1302" label="音乐与舞蹈学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="619.1943402367492" y="-68.15853302630114"/>
+        <viz:color r="218" g="161" b="168"/>
+      </node>
+      <node id="1303" label="戏剧与影视学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="797.535614770366" y="546.5524293819781"/>
+        <viz:color r="132" g="187" b="111"/>
+      </node>
+      <node id="1303L2" label="广播电视艺术学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-783.2236985861708" y="-414.727619336021"/>
+        <viz:color r="89" g="75" b="8"/>
+      </node>
+      <node id="1304" label="美术学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-148.1147354355977" y="-324.2600154536358"/>
+        <viz:color r="36" g="112" b="164"/>
+      </node>
+      <node id="1305" label="设计学">
+        <attvalues>
+          <attvalue for="xueke" value="xuke"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-771.944652164809" y="736.8519099514792"/>
+        <viz:color r="18" g="255" b="9"/>
+      </node>
+      <node id="14" label="吉林艺术学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"/>
+        </attvalues>
+        <viz:size value="5"/>
+        <viz:position x="-682.6727781702403" y="317.23283425389127"/>
+        <viz:color r="242" g="193" b="119"/>
+      </node>
+      <node id="15" label="吉林建筑大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="14"/>
+        </attvalues>
+        <viz:size value="9"/>
+        <viz:position x="-259.62286469237154" y="-673.3770024975008"/>
+        <viz:color r="220" g="110" b="190"/>
+      </node>
+      <node id="16" label="吉林体育学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="15"/>
+        </attvalues>
+        <viz:size value="2"/>
+        <viz:position x="720.7250732550644" y="-51.77889567617967"/>
+        <viz:color r="236" g="40" b="69"/>
+      </node>
+      <node id="17" label="长春大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="16"/>
+        </attvalues>
+        <viz:size value="6"/>
+        <viz:position x="-311.1432494914093" y="-260.90313132610083"/>
+        <viz:color r="226" g="128" b="187"/>
+      </node>
+      <node id="18" label="吉林化工学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="17"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="856.1494643650396" y="663.3517168849132"/>
+        <viz:color r="143" g="111" b="66"/>
+      </node>
+      <node id="19" label="长春工程学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="18"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="805.4602283623187" y="137.9716442172528"/>
+        <viz:color r="32" g="169" b="211"/>
+      </node>
+      <node id="2" label="东北师范大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="40"/>
+        <viz:position x="-829.0710663960118" y="-282.5496231249962"/>
+        <viz:color r="122" g="181" b="151"/>
+      </node>
+      <node id="20" label="吉林工程技术师范学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="19"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-337.7377677473245" y="768.3381867111902"/>
+        <viz:color r="161" g="202" b="255"/>
+      </node>
+      <node id="21" label="通化师范学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="20"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="744.9552886886931" y="-603.5414047265417"/>
+        <viz:color r="130" g="179" b="11"/>
+      </node>
+      <node id="22" label="白城师范学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="21"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-49.13988544160998" y="528.2394870702733"/>
+        <viz:color r="15" g="195" b="82"/>
+      </node>
+      <node id="23" label="吉林医药学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="22"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="606.5617938058617" y="-167.21338537749727"/>
+        <viz:color r="11" g="160" b="189"/>
+      </node>
+      <node id="24" label="吉林农业科技学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="23"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="520.0842359800204" y="-605.9356978705634"/>
+        <viz:color r="46" g="182" b="199"/>
+      </node>
+      <node id="25" label="吉林工商学院 ">
+        <attvalues>
+          <attvalue for="modularity_class" value="24"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-839.4344439712752" y="253.3252566956678"/>
+        <viz:color r="124" g="229" b="46"/>
+      </node>
+      <node id="26" label="吉林警察学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="25"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-507.4747629868735" y="676.5271756782622"/>
+        <viz:color r="90" g="232" b="11"/>
+      </node>
+      <node id="27" label="吉林动画学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="26"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="702.0828115950399" y="-827.758288442746"/>
+        <viz:color r="217" g="81" b="8"/>
+      </node>
+      <node id="28" label="长春建筑学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="27"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-885.0715714196681" y="-787.5171950110372"/>
+        <viz:color r="240" g="96" b="113"/>
+      </node>
+      <node id="29" label="长春光华学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="28"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="728.37030571999" y="712.5658676149667"/>
+        <viz:color r="239" g="230" b="88"/>
+      </node>
+      <node id="3" label="延边大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="37"/>
+        <viz:position x="-711.9340844923095" y="269.1653203233311"/>
+        <viz:color r="93" g="78" b="217"/>
+      </node>
+      <node id="30" label="长春科技学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="29"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="538.0109231859885" y="806.2082327272199"/>
+        <viz:color r="12" g="16" b="214"/>
+      </node>
+      <node id="31" label="长春财经学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="30"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="657.6488633396561" y="-797.3505616577801"/>
+        <viz:color r="179" g="15" b="110"/>
+      </node>
+      <node id="32" label="东北师范大学人文学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="31"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-490.07791211314276" y="864.7033206375995"/>
+        <viz:color r="23" g="162" b="0"/>
+      </node>
+      <node id="33" label="长春理工大学光电信息学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="32"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="91.45445241899267" y="-154.63918761441153"/>
+        <viz:color r="129" g="121" b="145"/>
+      </node>
+      <node id="34" label="长春工业大学人文信息学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="33"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-805.0632011116041" y="-815.8281429498335"/>
+        <viz:color r="152" g="212" b="30"/>
+      </node>
+      <node id="35" label="吉林师范大学博达学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="34"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="202.22476881437433" y="-648.3953823161097"/>
+        <viz:color r="18" g="145" b="77"/>
+      </node>
+      <node id="36" label="吉林建筑大学城建学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="35"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-606.3207858376105" y="-499.32644657058233"/>
+        <viz:color r="88" g="92" b="27"/>
+      </node>
+      <node id="37" label="长春大学旅游学院">
+        <attvalues>
+          <attvalue for="modularity_class" value="36"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="307.57118307689075" y="-644.0469755867034"/>
+        <viz:color r="129" g="226" b="234"/>
+      </node>
+      <node id="38" label="空军航空大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="37"/>
+        </attvalues>
+        <viz:size value="4"/>
+        <viz:position x="-540.1411423277832" y="163.07403362582522"/>
+        <viz:color r="228" g="146" b="154"/>
+      </node>
+      <node id="39" label="中共吉林省委党校">
+        <attvalues>
+          <attvalue for="modularity_class" value="38"/>
+        </attvalues>
+        <viz:size value="3"/>
+        <viz:position x="124.50452127374342" y="-62.007525093688514"/>
+        <viz:color r="163" g="53" b="46"/>
+      </node>
+      <node id="4" label="长春理工大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="20"/>
+        <viz:position x="811.2515847975908" y="-763.5690645787379"/>
+        <viz:color r="115" g="68" b="111"/>
+      </node>
+      <node id="40" label="长春生物制品研究所">
+        <attvalues>
+          <attvalue for="modularity_class" value="39"/>
+        </attvalues>
+        <viz:size value="2"/>
+        <viz:position x="-243.47058450791337" y="796.4045385491422"/>
+        <viz:color r="193" g="121" b="194"/>
+      </node>
+      <node id="5" label="吉林农业大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="24"/>
+        <viz:position x="-424.65665078247633" y="-712.7408455751518"/>
+        <viz:color r="163" g="67" b="235"/>
+      </node>
+      <node id="6" label="长春中医药大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="5"/>
+        <viz:position x="372.2492850219485" y="-593.2253016915699"/>
+        <viz:color r="148" g="185" b="210"/>
+      </node>
+      <node id="7" label="东北电力大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="15"/>
+        <viz:position x="496.38541408632545" y="-757.6531437687808"/>
+        <viz:color r="12" g="6" b="98"/>
+      </node>
+      <node id="8" label="长春工业大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="24"/>
+        <viz:position x="-415.2919859235015" y="-378.02537527918764"/>
+        <viz:color r="149" g="65" b="2"/>
+      </node>
+      <node id="9" label="吉林师范大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"/>
+        </attvalues>
+        <viz:size value="21"/>
+        <viz:position x="179.41147139586292" y="-228.2036860618715"/>
+        <viz:color r="114" g="141" b="101"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="0101" weight="1"/>
+      <edge id="1" source="1" target="0201" weight="1"/>
+      <edge id="10" source="1" target="0402" weight="1"/>
+      <edge id="100" source="2" target="1301" weight="1"/>
+      <edge id="101" source="2" target="1302" weight="1"/>
+      <edge id="102" source="2" target="1303" weight="1"/>
+      <edge id="103" source="2" target="1304" weight="1"/>
+      <edge id="104" source="2" target="1305" weight="1"/>
+      <edge id="105" source="3" target="0101" weight="1"/>
+      <edge id="106" source="3" target="0201" weight="1"/>
+      <edge id="107" source="3" target="0301" weight="1"/>
+      <edge id="108" source="3" target="0302" weight="1"/>
+      <edge id="109" source="3" target="0304" weight="1"/>
+      <edge id="11" source="1" target="0403" weight="1"/>
+      <edge id="110" source="3" target="0305" weight="1"/>
+      <edge id="111" source="3" target="0401" weight="1"/>
+      <edge id="112" source="3" target="0403" weight="1"/>
+      <edge id="113" source="3" target="0501" weight="1"/>
+      <edge id="114" source="3" target="0502" weight="1"/>
+      <edge id="115" source="3" target="060204" weight="1"/>
+      <edge id="116" source="3" target="0603" weight="1"/>
+      <edge id="117" source="3" target="0701" weight="1"/>
+      <edge id="118" source="3" target="0702" weight="1"/>
+      <edge id="119" source="3" target="0703" weight="1"/>
+      <edge id="12" source="1" target="0501" weight="1"/>
+      <edge id="120" source="3" target="0705" weight="1"/>
+      <edge id="121" source="3" target="071003" weight="1"/>
+      <edge id="122" source="3" target="071010" weight="1"/>
+      <edge id="123" source="3" target="0802" weight="1"/>
+      <edge id="124" source="3" target="0812" weight="1"/>
+      <edge id="125" source="3" target="081402" weight="1"/>
+      <edge id="126" source="3" target="0832" weight="1"/>
+      <edge id="127" source="3" target="0901" weight="1"/>
+      <edge id="128" source="3" target="0902" weight="1"/>
+      <edge id="129" source="3" target="0903" weight="1"/>
+      <edge id="13" source="1" target="0502" weight="1"/>
+      <edge id="130" source="3" target="0905" weight="1"/>
+      <edge id="131" source="3" target="0906" weight="1"/>
+      <edge id="132" source="3" target="1001" weight="1"/>
+      <edge id="133" source="3" target="1002" weight="1"/>
+      <edge id="134" source="3" target="100405" weight="1"/>
+      <edge id="135" source="3" target="1006" weight="1"/>
+      <edge id="136" source="3" target="100602" weight="1"/>
+      <edge id="137" source="3" target="1007" weight="1"/>
+      <edge id="138" source="3" target="1011" weight="1"/>
+      <edge id="139" source="3" target="1202" weight="1"/>
+      <edge id="14" source="1" target="0503" weight="1"/>
+      <edge id="140" source="3" target="1302" weight="1"/>
+      <edge id="141" source="3" target="1304" weight="1"/>
+      <edge id="142" source="4" target="0202" weight="1"/>
+      <edge id="143" source="4" target="0301" weight="1"/>
+      <edge id="144" source="4" target="0305" weight="1"/>
+      <edge id="145" source="4" target="0501" weight="1"/>
+      <edge id="146" source="4" target="0502" weight="1"/>
+      <edge id="147" source="4" target="0701" weight="1"/>
+      <edge id="148" source="4" target="0702" weight="1"/>
+      <edge id="149" source="4" target="0703" weight="1"/>
+      <edge id="15" source="1" target="0601" weight="1"/>
+      <edge id="150" source="4" target="0802" weight="1"/>
+      <edge id="151" source="4" target="0803" weight="1"/>
+      <edge id="152" source="4" target="0804" weight="1"/>
+      <edge id="153" source="4" target="0805" weight="1"/>
+      <edge id="154" source="4" target="0809" weight="1"/>
+      <edge id="155" source="4" target="0810" weight="1"/>
+      <edge id="156" source="4" target="0811" weight="1"/>
+      <edge id="157" source="4" target="0812" weight="1"/>
+      <edge id="158" source="4" target="0830" weight="1"/>
+      <edge id="159" source="4" target="0831" weight="1"/>
+      <edge id="16" source="1" target="0602" weight="1"/>
+      <edge id="160" source="4" target="0835" weight="1"/>
+      <edge id="161" source="4" target="1202" weight="1"/>
+      <edge id="162" source="5" target="030301" weight="1"/>
+      <edge id="163" source="5" target="0305" weight="1"/>
+      <edge id="164" source="5" target="040108" weight="1"/>
+      <edge id="165" source="5" target="0710" weight="1"/>
+      <edge id="166" source="5" target="0713" weight="1"/>
+      <edge id="167" source="5" target="0812" weight="1"/>
+      <edge id="168" source="5" target="081704" weight="1"/>
+      <edge id="169" source="5" target="0822" weight="1"/>
+      <edge id="17" source="1" target="0603" weight="1"/>
+      <edge id="170" source="5" target="0828" weight="1"/>
+      <edge id="171" source="5" target="0830" weight="1"/>
+      <edge id="172" source="5" target="0832" weight="1"/>
+      <edge id="173" source="5" target="0901" weight="1"/>
+      <edge id="174" source="5" target="0902" weight="1"/>
+      <edge id="175" source="5" target="0903" weight="1"/>
+      <edge id="176" source="5" target="0904" weight="1"/>
+      <edge id="177" source="5" target="0905" weight="1"/>
+      <edge id="178" source="5" target="0906" weight="1"/>
+      <edge id="179" source="5" target="090705" weight="1"/>
+      <edge id="18" source="1" target="0701" weight="1"/>
+      <edge id="180" source="5" target="090706" weight="1"/>
+      <edge id="181" source="5" target="0909" weight="1"/>
+      <edge id="182" source="5" target="1007" weight="1"/>
+      <edge id="183" source="5" target="1008" weight="1"/>
+      <edge id="184" source="5" target="120204" weight="1"/>
+      <edge id="185" source="5" target="1203" weight="1"/>
+      <edge id="186" source="6" target="0305" weight="1"/>
+      <edge id="187" source="6" target="1005" weight="1"/>
+      <edge id="188" source="6" target="1006" weight="1"/>
+      <edge id="189" source="6" target="1008" weight="1"/>
+      <edge id="19" source="1" target="0702" weight="1"/>
+      <edge id="190" source="6" target="1011" weight="1"/>
+      <edge id="191" source="7" target="0305" weight="1"/>
+      <edge id="192" source="7" target="0701" weight="1"/>
+      <edge id="193" source="7" target="0802" weight="1"/>
+      <edge id="194" source="7" target="0804" weight="1"/>
+      <edge id="195" source="7" target="0807" weight="1"/>
+      <edge id="196" source="7" target="0808" weight="1"/>
+      <edge id="197" source="7" target="0810" weight="1"/>
+      <edge id="198" source="7" target="0811" weight="1"/>
+      <edge id="199" source="7" target="0812" weight="1"/>
+      <edge id="2" source="1" target="0202" weight="1"/>
+      <edge id="20" source="1" target="0703" weight="1"/>
+      <edge id="200" source="7" target="0814" weight="1"/>
+      <edge id="201" source="7" target="0817" weight="1"/>
+      <edge id="202" source="7" target="0830" weight="1"/>
+      <edge id="203" source="7" target="083002" weight="1"/>
+      <edge id="204" source="7" target="1202" weight="1"/>
+      <edge id="205" source="7" target="1305" weight="1"/>
+      <edge id="206" source="8" target="0202" weight="1"/>
+      <edge id="207" source="8" target="0301" weight="1"/>
+      <edge id="208" source="8" target="0303" weight="1"/>
+      <edge id="209" source="8" target="0305" weight="1"/>
+      <edge id="21" source="1" target="070503" weight="1"/>
+      <edge id="210" source="8" target="030501" weight="1"/>
+      <edge id="211" source="8" target="030503" weight="1"/>
+      <edge id="212" source="8" target="030505" weight="1"/>
+      <edge id="213" source="8" target="0502" weight="1"/>
+      <edge id="214" source="8" target="050211" weight="1"/>
+      <edge id="215" source="8" target="0701" weight="1"/>
+      <edge id="216" source="8" target="0702" weight="1"/>
+      <edge id="217" source="8" target="0703" weight="1"/>
+      <edge id="218" source="8" target="0710" weight="1"/>
+      <edge id="219" source="8" target="0714" weight="1"/>
+      <edge id="22" source="1" target="070704" weight="1"/>
+      <edge id="220" source="8" target="0802" weight="1"/>
+      <edge id="221" source="8" target="0805" weight="1"/>
+      <edge id="222" source="8" target="0808" weight="1"/>
+      <edge id="223" source="8" target="0810" weight="1"/>
+      <edge id="224" source="8" target="0811" weight="1"/>
+      <edge id="225" source="8" target="0812" weight="1"/>
+      <edge id="226" source="8" target="0817" weight="1"/>
+      <edge id="227" source="8" target="1201" weight="1"/>
+      <edge id="228" source="8" target="1204" weight="1"/>
+      <edge id="229" source="8" target="1305" weight="1"/>
+      <edge id="23" source="1" target="0708" weight="1"/>
+      <edge id="230" source="9" target="0101" weight="1"/>
+      <edge id="231" source="9" target="0301" weight="1"/>
+      <edge id="232" source="9" target="0305" weight="1"/>
+      <edge id="233" source="9" target="0401" weight="1"/>
+      <edge id="234" source="9" target="0402" weight="1"/>
+      <edge id="235" source="9" target="0403" weight="1"/>
+      <edge id="236" source="9" target="0501" weight="1"/>
+      <edge id="237" source="9" target="0502" weight="1"/>
+      <edge id="238" source="9" target="0503" weight="1"/>
+      <edge id="239" source="9" target="0602" weight="1"/>
+      <edge id="24" source="1" target="0709" weight="1"/>
+      <edge id="240" source="9" target="0701" weight="1"/>
+      <edge id="241" source="9" target="0702" weight="1"/>
+      <edge id="242" source="9" target="0703" weight="1"/>
+      <edge id="243" source="9" target="0705" weight="1"/>
+      <edge id="244" source="9" target="070501" weight="1"/>
+      <edge id="245" source="9" target="0710" weight="1"/>
+      <edge id="246" source="9" target="080501" weight="1"/>
+      <edge id="247" source="9" target="0809" weight="1"/>
+      <edge id="248" source="9" target="0812" weight="1"/>
+      <edge id="249" source="9" target="1202" weight="1"/>
+      <edge id="25" source="1" target="0710" weight="1"/>
+      <edge id="250" source="9" target="1304" weight="1"/>
+      <edge id="251" source="10" target="0305" weight="1"/>
+      <edge id="252" source="10" target="0401" weight="1"/>
+      <edge id="253" source="10" target="040303" weight="1"/>
+      <edge id="254" source="10" target="0501" weight="1"/>
+      <edge id="255" source="10" target="0502" weight="1"/>
+      <edge id="256" source="10" target="060105" weight="1"/>
+      <edge id="257" source="10" target="0603" weight="1"/>
+      <edge id="258" source="10" target="0701" weight="1"/>
+      <edge id="259" source="10" target="070205" weight="1"/>
+      <edge id="26" source="1" target="0714" weight="1"/>
+      <edge id="260" source="10" target="070304" weight="1"/>
+      <edge id="261" source="10" target="071010" weight="1"/>
+      <edge id="262" source="10" target="0802" weight="1"/>
+      <edge id="263" source="10" target="0808" weight="1"/>
+      <edge id="264" source="10" target="081203" weight="1"/>
+      <edge id="265" source="10" target="081704" weight="1"/>
+      <edge id="266" source="10" target="0829" weight="1"/>
+      <edge id="267" source="10" target="0834" weight="1"/>
+      <edge id="268" source="10" target="0907" weight="1"/>
+      <edge id="269" source="10" target="1001" weight="1"/>
+      <edge id="27" source="1" target="0801" weight="1"/>
+      <edge id="270" source="10" target="1002" weight="1"/>
+      <edge id="271" source="10" target="1007" weight="1"/>
+      <edge id="272" source="10" target="1202" weight="1"/>
+      <edge id="273" source="10" target="1304" weight="1"/>
+      <edge id="274" source="11" target="0201" weight="1"/>
+      <edge id="275" source="11" target="0202" weight="1"/>
+      <edge id="276" source="11" target="0301" weight="1"/>
+      <edge id="277" source="11" target="0305" weight="1"/>
+      <edge id="278" source="11" target="0502" weight="1"/>
+      <edge id="279" source="11" target="0714" weight="1"/>
+      <edge id="28" source="1" target="0802" weight="1"/>
+      <edge id="280" source="11" target="1201" weight="1"/>
+      <edge id="281" source="11" target="1202" weight="1"/>
+      <edge id="282" source="11" target="1204" weight="1"/>
+      <edge id="283" source="12" target="0401" weight="1"/>
+      <edge id="284" source="13" target="0305" weight="1"/>
+      <edge id="285" source="13" target="0401" weight="1"/>
+      <edge id="286" source="13" target="0501" weight="1"/>
+      <edge id="287" source="13" target="0502" weight="1"/>
+      <edge id="288" source="13" target="0602" weight="1"/>
+      <edge id="289" source="13" target="0701" weight="1"/>
+      <edge id="29" source="1" target="0804" weight="1"/>
+      <edge id="290" source="13" target="0702" weight="1"/>
+      <edge id="291" source="13" target="0703" weight="1"/>
+      <edge id="292" source="13" target="0705" weight="1"/>
+      <edge id="293" source="13" target="0710" weight="1"/>
+      <edge id="294" source="13" target="0835" weight="1"/>
+      <edge id="295" source="13" target="1304" weight="1"/>
+      <edge id="296" source="14" target="1301" weight="1"/>
+      <edge id="297" source="14" target="1302" weight="1"/>
+      <edge id="298" source="14" target="1303" weight="1"/>
+      <edge id="299" source="14" target="1304" weight="1"/>
+      <edge id="3" source="1" target="0301" weight="1"/>
+      <edge id="30" source="1" target="0805" weight="1"/>
+      <edge id="300" source="14" target="1305" weight="1"/>
+      <edge id="301" source="15" target="0202" weight="1"/>
+      <edge id="302" source="15" target="0305" weight="1"/>
+      <edge id="303" source="15" target="0805" weight="1"/>
+      <edge id="304" source="15" target="0813" weight="1"/>
+      <edge id="305" source="15" target="0814" weight="1"/>
+      <edge id="306" source="15" target="0830" weight="1"/>
+      <edge id="307" source="15" target="0833" weight="1"/>
+      <edge id="308" source="15" target="1201" weight="1"/>
+      <edge id="309" source="15" target="1305" weight="1"/>
+      <edge id="31" source="1" target="0807" weight="1"/>
+      <edge id="310" source="16" target="0403" weight="1"/>
+      <edge id="311" source="16" target="1204" weight="1"/>
+      <edge id="312" source="17" target="0305" weight="1"/>
+      <edge id="313" source="17" target="0802" weight="1"/>
+      <edge id="314" source="17" target="0832" weight="1"/>
+      <edge id="315" source="17" target="0839" weight="1"/>
+      <edge id="316" source="17" target="1005" weight="1"/>
+      <edge id="317" source="17" target="1202" weight="1"/>
+      <edge id="318" source="18" target="0703" weight="1"/>
+      <edge id="319" source="18" target="0805" weight="1"/>
+      <edge id="32" source="1" target="080804" weight="1"/>
+      <edge id="320" source="18" target="0807" weight="1"/>
+      <edge id="321" source="18" target="0817" weight="1"/>
+      <edge id="322" source="38" target="0811" weight="1"/>
+      <edge id="323" source="38" target="0825" weight="1"/>
+      <edge id="324" source="38" target="110504" weight="1"/>
+      <edge id="325" source="38" target="110803" weight="1"/>
+      <edge id="326" source="39" target="010101" weight="1"/>
+      <edge id="327" source="39" target="020101" weight="1"/>
+      <edge id="328" source="39" target="0302" weight="1"/>
+      <edge id="329" source="40" target="100102" weight="1"/>
+      <edge id="33" source="1" target="080805" weight="1"/>
+      <edge id="330" source="40" target="100103" weight="1"/>
+      <edge id="34" source="1" target="0809" weight="1"/>
+      <edge id="35" source="1" target="0810" weight="1"/>
+      <edge id="36" source="1" target="0811" weight="1"/>
+      <edge id="37" source="1" target="0812" weight="1"/>
+      <edge id="38" source="1" target="0814" weight="1"/>
+      <edge id="39" source="1" target="0815" weight="1"/>
+      <edge id="4" source="1" target="0302" weight="1"/>
+      <edge id="40" source="1" target="081704" weight="1"/>
+      <edge id="41" source="1" target="0818" weight="1"/>
+      <edge id="42" source="1" target="0823" weight="1"/>
+      <edge id="43" source="1" target="0828" weight="1"/>
+      <edge id="44" source="1" target="0830" weight="1"/>
+      <edge id="45" source="1" target="0831" weight="1"/>
+      <edge id="46" source="1" target="0832" weight="1"/>
+      <edge id="47" source="1" target="0835" weight="1"/>
+      <edge id="48" source="1" target="0905" weight="1"/>
+      <edge id="49" source="1" target="0906" weight="1"/>
+      <edge id="5" source="1" target="0303" weight="1"/>
+      <edge id="50" source="1" target="1001" weight="1"/>
+      <edge id="51" source="1" target="1002" weight="1"/>
+      <edge id="52" source="1" target="1003" weight="1"/>
+      <edge id="53" source="1" target="1004" weight="1"/>
+      <edge id="54" source="1" target="100602" weight="1"/>
+      <edge id="55" source="1" target="1007" weight="1"/>
+      <edge id="56" source="1" target="1011" weight="1"/>
+      <edge id="57" source="1" target="1201" weight="1"/>
+      <edge id="58" source="1" target="1202" weight="1"/>
+      <edge id="59" source="1" target="1204" weight="1"/>
+      <edge id="6" source="1" target="0305" weight="1"/>
+      <edge id="60" source="1" target="1205" weight="1"/>
+      <edge id="61" source="1" target="1302" weight="1"/>
+      <edge id="62" source="1" target="1303L2" weight="1"/>
+      <edge id="63" source="1" target="1304" weight="1"/>
+      <edge id="64" source="1" target="1305" weight="1"/>
+      <edge id="65" source="2" target="0101" weight="1"/>
+      <edge id="66" source="2" target="0201" weight="1"/>
+      <edge id="67" source="2" target="020115" weight="1"/>
+      <edge id="68" source="2" target="0202" weight="1"/>
+      <edge id="69" source="2" target="0301" weight="1"/>
+      <edge id="7" source="1" target="040102" weight="1"/>
+      <edge id="70" source="2" target="0302" weight="1"/>
+      <edge id="71" source="2" target="0303" weight="1"/>
+      <edge id="72" source="2" target="0305" weight="1"/>
+      <edge id="73" source="2" target="0401" weight="1"/>
+      <edge id="74" source="2" target="0402" weight="1"/>
+      <edge id="75" source="2" target="0403" weight="1"/>
+      <edge id="76" source="2" target="0501" weight="1"/>
+      <edge id="77" source="2" target="0502" weight="1"/>
+      <edge id="78" source="2" target="0503" weight="1"/>
+      <edge id="79" source="2" target="0601" weight="1"/>
+      <edge id="8" source="1" target="040106" weight="1"/>
+      <edge id="80" source="2" target="0602" weight="1"/>
+      <edge id="81" source="2" target="0603" weight="1"/>
+      <edge id="82" source="2" target="0701" weight="1"/>
+      <edge id="83" source="2" target="0702" weight="1"/>
+      <edge id="84" source="2" target="0703" weight="1"/>
+      <edge id="85" source="2" target="0705" weight="1"/>
+      <edge id="86" source="2" target="0710" weight="1"/>
+      <edge id="87" source="2" target="0713" weight="1"/>
+      <edge id="88" source="2" target="0714" weight="1"/>
+      <edge id="89" source="2" target="0805" weight="1"/>
+      <edge id="9" source="1" target="040110" weight="1"/>
+      <edge id="90" source="2" target="080501" weight="1"/>
+      <edge id="91" source="2" target="0811" weight="1"/>
+      <edge id="92" source="2" target="0812" weight="1"/>
+      <edge id="93" source="2" target="0830" weight="1"/>
+      <edge id="94" source="2" target="0833" weight="1"/>
+      <edge id="95" source="2" target="0835" weight="1"/>
+      <edge id="96" source="2" target="0909" weight="1"/>
+      <edge id="97" source="2" target="1202" weight="1"/>
+      <edge id="98" source="2" target="1204" weight="1"/>
+      <edge id="99" source="2" target="1205" weight="1"/>
+    </edges>
+  </graph>
+</gexf>
