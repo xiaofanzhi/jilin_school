@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>关系图案例</title>
+		<!-- 引入 ECharts 文件 -->
+    <script type="text/javascript" src="../echarts.js"></script>
+    <script type="text/javascript" src="../jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="../dataTool.js"></script>
+	</head>
+	<body>
+		<!-- 为 ECharts 准备一个具备大小（宽高）的 容器 -->
+		<div id="main" style="width: 1000px;height: 1000px;;left: 10%;"></div>
+	</body>
+</html>
+<script type="text/javascript">
+	// 基于准备好的容器(这里的容器是id为chart1的div)，初始化echarts实例
+	var myChart = echarts.init(document.getElementById('main'));
+	myChart.showLoading();
+    $.get('data.gexf', function (xml) {
+        myChart.hideLoading();
+
+        var graph = echarts.dataTool.gexf.parse(xml);
+
+        var school = ['吉林大学', '东北师范大学', '延边大学', '长春理工大学', '吉林农业大学',
+            '长春中医药大学', '东北电力大学', '长春工业大学', '吉林师范大学', '北华大学',
+            '吉林财经大学', '吉林外国语大学', '长春师范大学', '吉林艺术学院', '吉林建筑大学',
+            '吉林体育学院', '长春大学', '吉林化工学院', '长春工程学院', '吉林工程技术师范学院',
+            '通化师范学院', '白城师范学院', '吉林医药学院', '吉林农业科技学院', '吉林工商学院 ',
+            '吉林警察学院', '吉林动画学院', '长春建筑学院', '长春光华学院', '长春科技学院', '长春财经学院',
+            '东北师范大学人文学院', '长春理工大学光电信息学院', '长春工业大学人文信息学院', '吉林师范大学博达学院',
+            '吉林建筑大学城建学院', '长春大学旅游学院', '空军航空大学', '中共吉林省委党校', '长春生物制品研究所']
+
+        var categories = [];
+        for (var i = 0; i < 40; i++) {
+            categories[i] = {
+                name: school[i]
+            };
+        }
+        graph.nodes.forEach(function (node) {
+            node.itemStyle = null;
+            node.value = node.symbolSize;
+
+            node.symbolSize /= 1.5;
+            node.label = {
+                normal: {
+                    show: node.symbolSize > 10
+                }
+            };
+            node.category = node.attributes.modularity_class;
+
+        });
+        option = {
+            title: {
+                text: 'Les 1Miserables',
+                subtext: 'Default layout',
+                top: 'bottom',
+                left: 'right'
+            },
+            tooltip: {},
+            legend: [{
+                // selectedMode: 'single',
+                data: categories.map(function (a) {
+                    return a.name;
+                })
+            }],
+            animationDuration: 1500,
+            animationEasingUpdate: 'quinticInOut',
+            series : [
+                {
+                    name: 'Les Miserables',
+                    type: 'graph',
+                    layout: 'none',
+                    data: graph.nodes,
+                    links: graph.links,
+                    categories: categories,
+                    roam: true,
+                    focusNodeAdjacency: true,
+                    itemStyle: {
+                        normal: {
+                            borderColor: '#fff',
+                            borderWidth: 1,
+                            shadowBlur: 10,
+                            shadowColor: 'rgba(0, 0, 0, 0.3)'
+                        }
+                    },
+                    label: {
+                        position: 'right',
+                        formatter: '{b}'
+                    },
+                    lineStyle: {
+                        color: 'source',
+                        curveness: 0.3
+                    },
+                    emphasis: {
+                        lineStyle: {
+                            width: 10
+                        }
+                    }
+                }
+            ]
+
+        };
+
+        myChart.setOption(option);
+    }, 'xml');
+
+</script>

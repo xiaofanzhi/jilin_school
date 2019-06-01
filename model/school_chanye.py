@@ -1,4 +1,3 @@
-
 from setting import db
 
 school = []
@@ -13,7 +12,6 @@ def search_school():
     return school
 
 
-
 school_list = []
 def search_school_id():
     cursor = db.cursor()
@@ -26,39 +24,27 @@ def search_school_id():
     return school_list
 
 
-
-
-xueshuo = []
-def search_xueke():
+chaye = []
+def search_chanye():
     cursor = db.cursor()
-    select = "SELECT code,name FROM xueshuo"  # 获取表中xxxxx记录数
-    cursor.execute(select)  # 执行sql语句
-    line = cursor.fetchone()
-    while line != None:
-        xueshuo.append((line[0], line[1]))
-        line = cursor.fetchone()
-    return xueshuo
-
-school_xuke = {}
-def search_school_xuke():
-    cursor = db.cursor()
-    select = 'select university_id , xueke_code from xueshuo_mid '
+    select = "SELECT id,name FROM industry"  # 获取表中xxxxx记录数
     cursor.execute(select)  # 执行sql语句
     line = cursor.fetchone()
     while line!=None:
-        school_xuke.setdefault(line[0],[]).append(line[1])
+        chaye.append((line[0]+40,line[1]))
         line = cursor.fetchone()
-    return school_xuke
+    return chaye
 
 
-school1 = []
-def search_school1():
+school_chanye = {}
+def search_school_chanye():
     cursor = db.cursor()
-    select = "SELECT name FROM university" #获取表中xxxxx记录数
-    cursor.execute(select) #执行sql语句
+    select = "select distinct university.id school_id,industry.id industry_id from university,industry,xueshuo_mid,xs_cy where university.id=xueshuo_mid.university_id and xueshuo_mid.xueke_code=xs_cy.xueshuo_code and xs_cy.industry_id=industry.id"
+    cursor.execute(select)  # 执行sql语句
     line = cursor.fetchone()
     while line!=None:
-        school1.append(line[0])
+        school_chanye.setdefault(line[0],[]).append(line[1]+40)
         line = cursor.fetchone()
-    return school1
-print(search_school1())
+    return school_chanye
+
+print(search_school_chanye())
